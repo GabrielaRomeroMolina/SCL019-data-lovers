@@ -1,7 +1,19 @@
-import { example } from './data.js';
-// import data from './data/lol/lol.js';
+
+
 import data from './data/athletes/athletes.js';
-// import data from './data/rickandmorty/rickandmorty.js';
+
+const dataAthlete = data.athletes
+
+for (let i = 0; i<dataAthlete.length; i++){
+  console.log(dataAthlete[i].name);
+  console.log(dataAthlete[i].medal);
+};
+
+
+
+
+infoAthlete = document.getElementById("athlete1");
+console.log(infoAthlete.innerHTML);
 
 
 
