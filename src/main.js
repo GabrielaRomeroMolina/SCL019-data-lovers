@@ -2,19 +2,42 @@
 
 import data from './data/athletes/athletes.js';
 
+//se crea una constante que llama la data de atletas
 const dataAthlete = data.athletes
 
-for (let i = 0; i<dataAthlete.length; i++){
+//se hace un ciclo de lectura de data para poder extraer contenido
+for (let i=0; i<dataAthlete.length; i++){
   console.log(dataAthlete[i].name);
+  console.log(dataAthlete[i].sport);
   console.log(dataAthlete[i].medal);
+ 
 };
 
+//---------------------------------------------visualizacion en pagina de data----------
+
+//creacion de variables para traer info
+let info1, info2, info3
+
+info1 = dataAthlete[3].name;
+info2 = dataAthlete[3].sport;
+info3 = dataAthlete[3].medal;
+
+// se crea una variable donde se unen las anteriores
+let infoGeneral = info1+info2+info3;
+
+console.log ("info", infoGeneral);
+
+// con el uso de innerhtml se visualiza la informacion anterior en las casilas
+document.getElementById("line1").innerHTML= info1;
+document.getElementById("line2").innerHTML= info2;
+document.getElementById("line3").innerHTML= info3;
 
 
 
-infoAthlete = document.getElementById("athlete1");
-console.log(infoAthlete.innerHTML);
 
+
+/*let dataAtletas = ["name","gender","height","weight","sport","team","noc","event","medal"]
+console.log(dataAtletas[1]);*/
 
 
 //FUNCIONAMIENTO DE MODAL DE BANNER
