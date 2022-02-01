@@ -18,9 +18,9 @@ for (let i=0; i<dataAthlete.length; i++){
 //creacion de variables para traer info
 let info1, info2, info3
 
-info1 = dataAthlete[3].name;
-info2 = dataAthlete[3].sport;
-info3 = dataAthlete[3].medal;
+info1 = dataAthlete[4].name;
+info2 = dataAthlete[4].sport;
+info3 = dataAthlete[4].medal;
 
 // se crea una variable donde se unen las anteriores
 let infoGeneral = info1+info2+info3;
