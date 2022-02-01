@@ -124,7 +124,7 @@ select {
 flex-wrap: wrap;
 
 } 
-.flex-container {
+.flex-container{
   display: flex;
   flex-wrap: wrap;
   background-color: rgb(247, 249, 252);
