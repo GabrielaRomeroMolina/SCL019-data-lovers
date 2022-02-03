@@ -6,7 +6,7 @@ import data from './data/athletes/athletes.js';
 const dataAthlete = data.athletes
 
 //se hace un ciclo de lectura de data para poder extraer contenido
-for (let i=0; i<dataAthlete.length; i++){
+/*for (let i=0; i<dataAthlete.length; i++){
   console.log(dataAthlete[i].name);
   console.log(dataAthlete[i].sport);
   console.log(dataAthlete[i].medal);
@@ -41,6 +41,9 @@ console.log(dataAtletas[1]);*/
 
 
 //FUNCIONAMIENTO DE MODAL DE BANNER
+const names = dataAthlete.map(item=>item.name);
+console.log(names);
+
 
     // traer el modal 
 let modal = document.getElementById("modalBanner");
