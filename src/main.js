@@ -18,6 +18,7 @@ for (let i=0; i<dataAthlete.length; i++){
 
 
   function agregarElementos(){ 
+
     let lista=document.getElementById("athlete2"); 
     dataAthlete.forEach(function(item,index){
     
@@ -31,6 +32,50 @@ for (let i=0; i<dataAthlete.length; i++){
     }
     agregarElementos();
 
+
+
+//--------------
+
+// Lista de países en select
+const listaPaisesRepetidos = dataAthlete.map((paises) => paises.team);
+const listaPaises = listaPaisesRepetidos.filter((elemento, indice, array) =>
+  array.indexOf(elemento) === indice);
+const selectPais = document.querySelector('#paises');
+(() => {
+  const paisesOrdenados = listaPaises.sort();
+  paisesOrdenados.forEach((pais) => {
+    const opcion = document.createElement('option');
+    opcion.textContent = pais;
+    opcion.setAttribute('value', pais);
+    selectPais.appendChild(opcion);
+  });
+})();
+
+  // Lista de diciplinas en select
+  const listaDisciplinasArr = dataAthlete.map((atleta) =>
+    (atleta.disciplinas));
+  const listaDisciplinasFuncion = () => {
+    const result = [];
+    listaDisciplinasArr.forEach((arr) => {
+      arr.forEach((obj) => {
+        result.push(obj.disciplina);
+      });
+    });
+    return result;
+  };
+  const listaDisciplinasRepetidas = listaDisciplinasFuncion();
+  const listaDisciplinas = listaDisciplinasRepetidas.filter(
+      (elemento, indice, array) =>
+        (array.indexOf(elemento) === indice));
+
+
+/*
+// funcionalidad select pais
+selectPais.addEventListener('change', (event) => {
+  const resultado = filtroData(atletas2016, 'team', event.target.value);
+  main.innerHTML = cartaHTML(resultado);
+});
+*/
 
 
 //FUNCIONAMIENTO DE MODAL DE BANNER
