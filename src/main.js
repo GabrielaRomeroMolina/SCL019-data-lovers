@@ -6,7 +6,7 @@ import data from './data/athletes/athletes.js';
 const dataAthlete = data.athletes
 
 //se hace un ciclo de lectura de data para poder extraer contenido
-/*for (let i=0; i<dataAthlete.length; i++){
+for (let i=0; i<dataAthlete.length; i++){
   console.log(dataAthlete[i].name);
   console.log(dataAthlete[i].sport);
   console.log(dataAthlete[i].medal);
@@ -14,22 +14,71 @@ const dataAthlete = data.athletes
 };
 
 //---------------------------------------------visualizacion en pagina de data----------
+/*<div class="card">
+  <div class="content">
+    <div class="front">
+      Front
+    </div>
+    <div class="back">
+      Back!
+    </div>
+  </div>
+</div>*/
 
-
+window.onload = () => {
+  agregarElementos(dataAthlete)
+}
+/*function agregarElementos(){
+  let lista=document.getElementById("athlete2");
+  dataAthlete.forEach(function(item,index){
+  let linew= document.createElement("button");    
+  let contenido = document.createTextNode(item.name);
+      lista.appendChild(linew);
+      linew.appendChild(contenido);
+  })
+  }
+  agregarElementos();*/
 
   function agregarElementos(){ 
-    let lista=document.getElementById("athlete2"); 
-    dataAthlete.forEach(function(item,index){
-    
-    let linew= document.createElement("button");    
-    
+    let lista=document.getElementById("root"); 
+    dataAthlete.forEach(function(item){
+      lista.innerHTML += `
+      <div class="card">
+      <div class="content">
+        <div class="front">
+          Front
+        </div>
+        <div class="back">
+          Back!
+        </div>
+      </div>
+    </div>`
+
+    /*let divCard= document.createElement("div");    
+    divCard.classList.add("card");
+    let divContent=document.createElement("div");
+    divContent.classList.add("content");
+    let divFront= document.createElement("div");
+    divFront.classList.add("front");
+    let contentFront= document.createElement("p");
     let contenido = document.createTextNode(item.name);
+    let divBack= document.createElement("div")
+    divBack.classList.add("back");
+    let contenidoBack = document.createTextNode("reverso");
     
-        lista.appendChild(linew);
-        linew.appendChild(contenido);
+        lista.appendChild(divCard);
+        divCard.appendChild(divContent);
+        divContent.appendChild(divFront);
+        divFront.appendChild(contentFront);
+        contentFront.appendChild(contenido);
+        divBack.appendChild(contenidoBack);
+        divContent.appendChild(divBack);*/
     })
     }
-    agregarElementos();
+    
+
+
+
 
 
 
@@ -56,3 +105,4 @@ btn.onclick = function() {
 span.onclick = function() {
   modal.style.display = "none";
 }
+
