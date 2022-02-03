@@ -15,29 +15,22 @@ const dataAthlete = data.athletes
 
 //---------------------------------------------visualizacion en pagina de data----------
 
-//creacion de variables para traer info
-let info1, info2, info3
-
-info1 = dataAthlete[4].name;
-info2 = dataAthlete[4].sport;
-info3 = dataAthlete[4].medal;
-
-// se crea una variable donde se unen las anteriores
-let infoGeneral = info1+info2+info3;
-
-console.log ("info", infoGeneral);
-
-// con el uso de innerhtml se visualiza la informacion anterior en las casilas
-document.getElementById("line1").innerHTML= info1;
-document.getElementById("line2").innerHTML= info2;
-document.getElementById("line3").innerHTML= info3;
 
 
+  function agregarElementos(){ 
+    let lista=document.getElementById("athlete2"); 
+    dataAthlete.forEach(function(item,index){
+    
+    let linew= document.createElement("button");    
+    
+    let contenido = document.createTextNode(item.name);
+    
+        lista.appendChild(linew);
+        linew.appendChild(contenido);
+    })
+    }
+    agregarElementos();
 
-
-
-/*let dataAtletas = ["name","gender","height","weight","sport","team","noc","event","medal"]
-console.log(dataAtletas[1]);*/
 
 
 //FUNCIONAMIENTO DE MODAL DE BANNER
