@@ -13,57 +13,26 @@ for (let i=0; i<dataAthlete.length; i++){
  
 };
 
-//---------------------------------------------visualizacion en pagina de data----------
-/*<div class="card">
-  <div class="content">
-    <div class="front">
-      Front
-    </div>
-    <div class="back">
-      Back!
-    </div>
-  </div>
-</div>*/
+//------------------------------visualizacion en pagina de data-------------------
 
 window.onload = () => {
   agregarElementos(dataAthlete)
 }
-/*function agregarElementos(){
-  let lista=document.getElementById("athlete2");
-  dataAthlete.forEach(function(item,index){
-  let linew= document.createElement("button");    
-  let contenido = document.createTextNode(item.name);
-      lista.appendChild(linew);
-      linew.appendChild(contenido);
-  })
-  }
-  agregarElementos();*/
 
-  function agregarElementos(){ 
-    let lista=document.getElementById("root"); 
+    let lista=document.getElementById("root");
     dataAthlete.forEach(function(item){
-      lista.innerHTML += `
-      <div class="card">
-      <div class="content">
-        <div class="front">
-          Front
-        </div>
-        <div class="back">
-          Back!
-        </div>
-      </div>
-    </div>`
 
-    /*let divCard= document.createElement("div");    
-    divCard.classList.add("card");
+    let divCard= document.createElement("div");    
+        divCard.classList.add("card");
     let divContent=document.createElement("div");
-    divContent.classList.add("content");
+        divContent.classList.add("content");
     let divFront= document.createElement("div");
-    divFront.classList.add("front");
+        divFront.classList.add("front");
     let contentFront= document.createElement("p");
     let contenido = document.createTextNode(item.name);
+    
     let divBack= document.createElement("div")
-    divBack.classList.add("back");
+        divBack.classList.add("back");
     let contenidoBack = document.createTextNode("reverso");
     
         lista.appendChild(divCard);
@@ -72,19 +41,14 @@ window.onload = () => {
         divFront.appendChild(contentFront);
         contentFront.appendChild(contenido);
         divBack.appendChild(contenidoBack);
-        divContent.appendChild(divBack);*/
+        divContent.appendChild(divBack);
     })
-    }
     
 
 
+//--------------lista desplegable select-----------------
 
-
-
-
-//--------------
-
-// Lista de países en select
+// Lista de países en select desplegable
 const listaPaisesRepetidos = dataAthlete.map((paises) => paises.team);
 const listaPaises = listaPaisesRepetidos.filter((elemento, indice, array) =>
   array.indexOf(elemento) === indice);
@@ -99,37 +63,26 @@ const selectPais = document.querySelector('#paises');
   });
 })();
 
-  // Lista de diciplinas en select
-  const listaDisciplinasArr = dataAthlete.map((atleta) =>
-    (atleta.disciplinas));
-  const listaDisciplinasFuncion = () => {
-    const result = [];
-    listaDisciplinasArr.forEach((arr) => {
-      arr.forEach((obj) => {
-        result.push(obj.disciplina);
-      });
-    });
-    return result;
-  };
-  const listaDisciplinasRepetidas = listaDisciplinasFuncion();
-  const listaDisciplinas = listaDisciplinasRepetidas.filter(
-      (elemento, indice, array) =>
-        (array.indexOf(elemento) === indice));
+
+// Lista de deportes en select desplegable
+const listaDeportesRepetidos = dataAthlete.map((deportes) => deportes.sport);
+const listaDeportes = listaDeportesRepetidos.filter((elemento, indice, array) =>
+  array.indexOf(elemento) === indice);
+const selectDeporte = document.querySelector('#deporte');
+(() => {
+  const deportesOrdenados = listaDeportes.sort();
+  deportesOrdenados.forEach((deporte) => {
+    const opcion = document.createElement('option');
+    opcion.textContent = deporte;
+    opcion.setAttribute('value', deporte);
+    selectDeporte.appendChild(opcion);
+  });
+})();
 
 
-/*
-// funcionalidad select pais
-selectPais.addEventListener('change', (event) => {
-  const resultado = filtroData(atletas2016, 'team', event.target.value);
-  main.innerHTML = cartaHTML(resultado);
-});
-*/
-
-
-//FUNCIONAMIENTO DE MODAL DE BANNER
+//--------------- FUNCIONAMIENTO DE MODAL DE BANNER---------------
 const names = dataAthlete.map(item=>item.name);
 console.log(names);
-
 
     // traer el modal 
 let modal = document.getElementById("modalBanner");
