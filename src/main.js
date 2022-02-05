@@ -1,6 +1,8 @@
 
 
+
 import data from './data/athletes/athletes.js';
+
 
 //se crea una constante que llama la data de atletas
 const dataAthlete = data.athletes
@@ -81,9 +83,7 @@ const selectPais = document.querySelector('#paises');
   });
 })();
 
-
-
-
+  
 // Lista de deportes en select desplegable
 
 const listaDeportesRepetidos = dataAthlete.map((deportes) => deportes.sport);
@@ -99,6 +99,40 @@ const selectDeporte = document.querySelector('#deporte');
     selectDeporte.appendChild(opcion);
   });
 })();
+
+
+
+// Lista de generos en select desplegable
+
+const listaGenerosRepetidos = dataAthlete.map((generos) => generos.gender);
+const listaGeneros = listaGenerosRepetidos.filter((elemento, indice, array) =>
+  array.indexOf(elemento) === indice);
+const selectGenero = document.querySelector('#generos');
+(() => {
+  const generosOrdenados = listaGeneros.sort();
+  generosOrdenados.forEach((genero) => {
+    const opcion = document.createElement('option');
+    opcion.textContent = genero;
+    opcion.setAttribute('value', genero);
+    selectGenero.appendChild(opcion);
+  });
+})();
+
+// Lista de medallas en select desplegable
+const listaMedallasRepetidas = dataAthlete.map((medallas) => medallas.medal);
+const listaMedallas = listaMedallasRepetidas.filter((elemento, indice, array) =>
+  array.indexOf(elemento) === indice);
+const selectMedalla = document.querySelector('#medallas');
+(() => {
+  const medallasOrdenadas = listaMedallas.sort();
+  medallasOrdenadas.forEach((medalla) => {
+    const opcion = document.createElement('option');
+    opcion.textContent = medalla;
+    opcion.setAttribute('value', medalla);
+    selectMedalla.appendChild(opcion);
+  });
+})();
+
 
 
 //--------------- FUNCIONAMIENTO DE MODAL DE BANNER---------------
