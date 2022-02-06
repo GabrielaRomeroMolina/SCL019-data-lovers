@@ -59,7 +59,10 @@
 
 #textoModal{
   padding: 3%;
-  justify-content: center;
+  line-height: 40px;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
 }
 
 /* X boton de cerrar */
