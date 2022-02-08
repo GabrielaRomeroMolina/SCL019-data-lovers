@@ -7,7 +7,7 @@ export default {
     {
       "name": "Giovanni Abagnale",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "90",
       "sport": "Rowing",
       "team": "Italy",
@@ -19,7 +19,7 @@ export default {
     {
       "name": "Patimat Abakarova",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "49",
       "sport": "Taekwondo",
       "team": "Azerbaijan",
@@ -31,7 +31,7 @@ export default {
     {
       "name": "Luc Abalo",
       "gender": "M",
-      "height": "182",
+      "height": "1.82",
       "weight": "86",
       "sport": "Handball",
       "team": "France",
@@ -43,7 +43,7 @@ export default {
     {
       "name": "Saeid Morad Abdevali",
       "gender": "M",
-      "height": "170",
+      "height": "1.70",
       "weight": "80",
       "sport": "Wrestling",
       "team": "Iran",
@@ -55,7 +55,7 @@ export default {
     {
       "name": "Denis Mikhaylovich Ablyazin",
       "gender": "M",
-      "height": "161",
+      "height": "1.61",
       "weight": "62",
       "sport": "Gymnastics",
       "team": "Russia",
@@ -67,7 +67,7 @@ export default {
     {
       "name": "Denis Mikhaylovich Ablyazin",
       "gender": "M",
-      "height": "161",
+      "height": "1.61",
       "weight": "62",
       "sport": "Gymnastics",
       "team": "Russia",
@@ -79,7 +79,7 @@ export default {
     {
       "name": "Denis Mikhaylovich Ablyazin",
       "gender": "M",
-      "height": "161",
+      "height": "1.61",
       "weight": "62",
       "sport": "Gymnastics",
       "team": "Russia",
@@ -91,7 +91,7 @@ export default {
     {
       "name": "Matthew \"Matt\" Abood",
       "gender": "M",
-      "height": "197",
+      "height": "1.97",
       "weight": "92",
       "sport": "Swimming",
       "team": "Australia",
@@ -103,7 +103,7 @@ export default {
     {
       "name": "Alejandro \"lex\" Abrines Redondo",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "93",
       "sport": "Basketball",
       "team": "Spain",
@@ -115,7 +115,7 @@ export default {
     {
       "name": "Ahmad Abughaush",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "68",
       "sport": "Taekwondo",
       "team": "Jordan",
@@ -127,7 +127,7 @@ export default {
     {
       "name": "Chantal Achterberg",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "72",
       "sport": "Rowing",
       "team": "Netherlands",
@@ -139,7 +139,7 @@ export default {
     {
       "name": "Nicola Virginia Adams",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "51",
       "sport": "Boxing",
       "team": "Great Britain",
@@ -151,7 +151,7 @@ export default {
     {
       "name": "Rachael Alexis Adams",
       "gender": "F",
-      "height": "188",
+      "height": "1.88",
       "weight": "81",
       "sport": "Volleyball",
       "team": "United States",
@@ -163,7 +163,7 @@ export default {
     {
       "name": "Valerie Kasanita Adams-Vili (-Price)",
       "gender": "F",
-      "height": "193",
+      "height": "1.93",
       "weight": "120",
       "sport": "Athletics",
       "team": "New Zealand",
@@ -175,7 +175,7 @@ export default {
     {
       "name": "Nathan Ghar-Jun Adrian",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "100",
       "sport": "Swimming",
       "team": "United States",
@@ -187,7 +187,7 @@ export default {
     {
       "name": "Nathan Ghar-Jun Adrian",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "100",
       "sport": "Swimming",
       "team": "United States",
@@ -199,7 +199,7 @@ export default {
     {
       "name": "Nathan Ghar-Jun Adrian",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "100",
       "sport": "Swimming",
       "team": "United States",
@@ -211,7 +211,7 @@ export default {
     {
       "name": "Nathan Ghar-Jun Adrian",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "100",
       "sport": "Swimming",
       "team": "United States",
@@ -223,7 +223,7 @@ export default {
     {
       "name": "Cecil Sebastian Afrika",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "75",
       "sport": "Rugby Sevens",
       "team": "South Africa",
@@ -235,7 +235,7 @@ export default {
     {
       "name": "Timothy Ernest Victor Kwizera \"Tim\" Agaba",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "104",
       "sport": "Rugby Sevens",
       "team": "South Africa",
@@ -247,7 +247,7 @@ export default {
     {
       "name": "Clarisse Agbegnenou",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "66",
       "sport": "Judo",
       "team": "France",
@@ -259,7 +259,7 @@ export default {
     {
       "name": "Sandra Aguilar Navarro",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "50",
       "sport": "Rhythmic Gymnastics",
       "team": "Spain",
@@ -271,7 +271,7 @@ export default {
     {
       "name": "Sri Wahyuni Agustiani",
       "gender": "F",
-      "height": "147",
+      "height": "1.47",
       "weight": "47",
       "sport": "Weightlifting",
       "team": "Indonesia",
@@ -283,7 +283,7 @@ export default {
     {
       "name": "Christian Ahlmann",
       "gender": "M",
-      "height": "189",
+      "height": "1.89",
       "weight": "80",
       "sport": "Equestrianism",
       "team": "Germany",
@@ -295,7 +295,7 @@ export default {
     {
       "name": "Tontowi Ahmad",
       "gender": "M",
-      "height": "179",
+      "height": "1.79",
       "weight": "72",
       "sport": "Badminton",
       "team": "Indonesia-1",
@@ -307,7 +307,7 @@ export default {
     {
       "name": "Matteo Aicardi",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "102",
       "sport": "Water Polo",
       "team": "Italy",
@@ -319,7 +319,7 @@ export default {
     {
       "name": "Rosaria Aiello",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "74",
       "sport": "Water Polo",
       "team": "Italy",
@@ -331,7 +331,7 @@ export default {
     {
       "name": "Oluwafemi \"Junior\" Ajayi",
       "gender": "M",
-      "height": "172",
+      "height": "1.72",
       "weight": "79",
       "sport": "Football",
       "team": "Nigeria",
@@ -343,7 +343,7 @@ export default {
     {
       "name": "Mobolade Abimbola Ajomale",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "62",
       "sport": "Athletics",
       "team": "Canada",
@@ -355,7 +355,7 @@ export default {
     {
       "name": "Taha Akgl",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "125",
       "sport": "Wrestling",
       "team": "Turkey",
@@ -367,7 +367,7 @@ export default {
     {
       "name": "Murodzhon Kakharovich Akhmadaliyev",
       "gender": "M",
-      "height": "165",
+      "height": "1.65",
       "weight": "56",
       "sport": "Boxing",
       "team": "Uzbekistan",
@@ -379,7 +379,7 @@ export default {
     {
       "name": "Artur Kamilevich Akhmatkhuzin",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "79",
       "sport": "Fencing",
       "team": "Russia",
@@ -391,7 +391,7 @@ export default {
     {
       "name": "Morolake Akinosun",
       "gender": "F",
-      "height": "163",
+      "height": "1.63",
       "weight": "61",
       "sport": "Athletics",
       "team": "United States",
@@ -403,7 +403,7 @@ export default {
     {
       "name": "Foluke Antinuke Akinradewo",
       "gender": "F",
-      "height": "191",
+      "height": "1.91",
       "weight": "79",
       "sport": "Volleyball",
       "team": "United States",
@@ -415,7 +415,7 @@ export default {
     {
       "name": "Daniel Akpeyi",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "80",
       "sport": "Football",
       "team": "Nigeria",
@@ -427,7 +427,7 @@ export default {
     {
       "name": "Monica Aksamit",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "74",
       "sport": "Fencing",
       "team": "United States",
@@ -439,7 +439,7 @@ export default {
     {
       "name": "Fehaid Al-Deehani",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "95",
       "sport": "Shooting",
       "team": "Individual Olympic Athletes",
@@ -451,7 +451,7 @@ export default {
     {
       "name": "Abdullah Al-Rashidi",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "83",
       "sport": "Shooting",
       "team": "Individual Olympic Athletes",
@@ -463,7 +463,7 @@ export default {
     {
       "name": "Jo Qesem Ayela Aleh",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "58",
       "sport": "Sailing",
       "team": "New Zealand",
@@ -475,7 +475,7 @@ export default {
     {
       "name": "Artur Aleksanyan",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "98",
       "sport": "Wrestling",
       "team": "Armenia",
@@ -487,7 +487,7 @@ export default {
     {
       "name": "Milan Aleksi",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "96",
       "sport": "Water Polo",
       "team": "Serbia",
@@ -499,7 +499,7 @@ export default {
     {
       "name": "Abdoul Razak Issoufou Alfaga",
       "gender": "M",
-      "height": "207",
+      "height": "2.07",
       "weight": "90",
       "sport": "Taekwondo",
       "team": "Niger",
@@ -511,7 +511,7 @@ export default {
     {
       "name": "Nia Sifaatihii Ali",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "65",
       "sport": "Athletics",
       "team": "United States",
@@ -523,7 +523,7 @@ export default {
     {
       "name": "Alison Conte Cerutti",
       "gender": "M",
-      "height": "203",
+      "height": "2.03",
       "weight": "106",
       "sport": "Beach Volleyball",
       "team": "Brazil-1",
@@ -535,7 +535,7 @@ export default {
     {
       "name": "Kimia Alizadeh Zenoorin",
       "gender": "F",
-      "height": "185",
+      "height": "1.85",
       "weight": "57",
       "sport": "Taekwondo",
       "team": "Iran",
@@ -547,7 +547,7 @@ export default {
     {
       "name": "Nathon Allen",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "NA",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -559,7 +559,7 @@ export default {
     {
       "name": "Ida Alstad",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "60",
       "sport": "Handball",
       "team": "Norway",
@@ -571,7 +571,7 @@ export default {
     {
       "name": "Lzaro Jorge lvarez Estrada",
       "gender": "M",
-      "height": "173",
+      "height": "1.73",
       "weight": "60",
       "sport": "Boxing",
       "team": "Cuba",
@@ -583,7 +583,7 @@ export default {
     {
       "name": "Yuri Alvear Orjuela",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "70",
       "sport": "Judo",
       "team": "Colombia",
@@ -595,7 +595,7 @@ export default {
     {
       "name": "Marwa Al-Amri",
       "gender": "F",
-      "height": "160",
+      "height": "1.60",
       "weight": "58",
       "sport": "Wrestling",
       "team": "Tunisia",
@@ -607,7 +607,7 @@ export default {
     {
       "name": "Stanley Amuzie",
       "gender": "M",
-      "height": "171",
+      "height": "1.71",
       "weight": "85",
       "sport": "Football",
       "team": "Nigeria",
@@ -619,7 +619,7 @@ export default {
     {
       "name": "An Ba-Ul",
       "gender": "M",
-      "height": "169",
+      "height": "1.69",
       "weight": "66",
       "sport": "Judo",
       "team": "South Korea",
@@ -631,7 +631,7 @@ export default {
     {
       "name": "milie Andol",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "97",
       "sport": "Judo",
       "team": "France",
@@ -643,7 +643,7 @@ export default {
     {
       "name": "Anne Dsane Andersen",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "86",
       "sport": "Rowing",
       "team": "Denmark",
@@ -655,7 +655,7 @@ export default {
     {
       "name": "Matthew John \"Matt\" Anderson",
       "gender": "M",
-      "height": "202",
+      "height": "2.02",
       "weight": "100",
       "sport": "Volleyball",
       "team": "United States",
@@ -667,7 +667,7 @@ export default {
     {
       "name": "Jonna Andersson",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "61",
       "sport": "Football",
       "team": "Sweden",
@@ -679,7 +679,7 @@ export default {
     {
       "name": "Roman Sergeyevich Anoshkin",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "95",
       "sport": "Canoeing",
       "team": "Russia",
@@ -691,7 +691,7 @@ export default {
     {
       "name": "Giselle Anne Ansley",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "73",
       "sport": "Hockey",
       "team": "Great Britain",
@@ -703,7 +703,7 @@ export default {
     {
       "name": "Carmelo Kyan Anthony",
       "gender": "M",
-      "height": "203",
+      "height": "2.03",
       "weight": "109",
       "sport": "Basketball",
       "team": "United States",
@@ -715,7 +715,7 @@ export default {
     {
       "name": "Oleg Antonov",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "88",
       "sport": "Volleyball",
       "team": "Italy",
@@ -727,7 +727,7 @@ export default {
     {
       "name": "Emilia Elisabeth Appelqvist",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "65",
       "sport": "Football",
       "team": "Sweden",
@@ -739,7 +739,7 @@ export default {
     {
       "name": "Hirooki Arai",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "62",
       "sport": "Athletics",
       "team": "Japan",
@@ -751,7 +751,7 @@ export default {
     {
       "name": "Katie Louise Archibald",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "70",
       "sport": "Cycling",
       "team": "Great Britain",
@@ -763,7 +763,7 @@ export default {
     {
       "name": "Joahnys Oscar Argilagos Prez",
       "gender": "M",
-      "height": "152",
+      "height": "1.52",
       "weight": "49",
       "sport": "Boxing",
       "team": "Cuba",
@@ -775,7 +775,7 @@ export default {
     {
       "name": "William Peixoto Arjona",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "78",
       "sport": "Volleyball",
       "team": "Brazil",
@@ -787,7 +787,7 @@ export default {
     {
       "name": "Kristin Ann Armstrong (-Savola)",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "58",
       "sport": "Cycling",
       "team": "United States",
@@ -799,7 +799,7 @@ export default {
     {
       "name": "Emilie Hegh Arntzen",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "78",
       "sport": "Handball",
       "team": "Norway",
@@ -811,7 +811,7 @@ export default {
     {
       "name": "Migran Arutyunyan",
       "gender": "M",
-      "height": "166",
+      "height": "1.66",
       "weight": "67",
       "sport": "Wrestling",
       "team": "Armenia",
@@ -823,7 +823,7 @@ export default {
     {
       "name": "Geraldina Rachel \"Dina\" Asher-Smith",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "55",
       "sport": "Athletics",
       "team": "Great Britain",
@@ -835,7 +835,7 @@ export default {
     {
       "name": "Nickel Ashmeade",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "77",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -847,7 +847,7 @@ export default {
     {
       "name": "Jessica Ashwood",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "64",
       "sport": "Swimming",
       "team": "Australia",
@@ -859,7 +859,7 @@ export default {
     {
       "name": "Kosovare \"Kosse\" Asllani",
       "gender": "F",
-      "height": "166",
+      "height": "1.66",
       "weight": "56",
       "sport": "Football",
       "team": "Sweden",
@@ -871,7 +871,7 @@ export default {
     {
       "name": "Sandra Auffarth",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "57",
       "sport": "Equestrianism",
       "team": "Germany",
@@ -883,7 +883,7 @@ export default {
     {
       "name": "Seimone Delicia Augustus",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "74",
       "sport": "Basketball",
       "team": "United States",
@@ -895,7 +895,7 @@ export default {
     {
       "name": "Mohd Azizulhasni Awang",
       "gender": "M",
-      "height": "166",
+      "height": "1.66",
       "weight": "69",
       "sport": "Cycling",
       "team": "Malaysia",
@@ -907,7 +907,7 @@ export default {
     {
       "name": "Viktor Axelsen",
       "gender": "M",
-      "height": "194",
+      "height": "1.94",
       "weight": "88",
       "sport": "Badminton",
       "team": "Denmark",
@@ -919,7 +919,7 @@ export default {
     {
       "name": "Almaz Ayana Eba",
       "gender": "F",
-      "height": "166",
+      "height": "1.66",
       "weight": "47",
       "sport": "Athletics",
       "team": "Ethiopia",
@@ -931,7 +931,7 @@ export default {
     {
       "name": "Almaz Ayana Eba",
       "gender": "F",
-      "height": "166",
+      "height": "1.66",
       "weight": "47",
       "sport": "Athletics",
       "team": "Ethiopia",
@@ -943,7 +943,7 @@ export default {
     {
       "name": "Camille Anas Ayglon-Saurina",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "66",
       "sport": "Handball",
       "team": "France",
@@ -955,7 +955,7 @@ export default {
     {
       "name": "Jrmie Azou",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "71",
       "sport": "Rowing",
       "team": "France",
@@ -967,7 +967,7 @@ export default {
     {
       "name": "Okechukwu Godson Azubuike",
       "gender": "M",
-      "height": "170",
+      "height": "1.70",
       "weight": "68",
       "sport": "Football",
       "team": "Nigeria",
@@ -979,7 +979,7 @@ export default {
     {
       "name": "Diana Bacosi",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "85",
       "sport": "Shooting",
       "team": "Italy",
@@ -991,7 +991,7 @@ export default {
     {
       "name": "Timea Bacsinszky",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "62",
       "sport": "Tennis",
       "team": "Switzerland",
@@ -1003,7 +1003,7 @@ export default {
     {
       "name": "Kemar Bailey-Cole",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "84",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -1015,7 +1015,7 @@ export default {
     {
       "name": "Kathleen Baker",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "68",
       "sport": "Swimming",
       "team": "United States",
@@ -1027,7 +1027,7 @@ export default {
     {
       "name": "Kathleen Baker",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "68",
       "sport": "Swimming",
       "team": "United States",
@@ -1039,7 +1039,7 @@ export default {
     {
       "name": "Mashu Baker",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "90",
       "sport": "Judo",
       "team": "Japan",
@@ -1051,7 +1051,7 @@ export default {
     {
       "name": "Shakira Baker",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "89",
       "sport": "Rugby Sevens",
       "team": "New Zealand",
@@ -1063,7 +1063,7 @@ export default {
     {
       "name": "Dmitry Igorevich Balandin",
       "gender": "M",
-      "height": "195",
+      "height": "1.95",
       "weight": "85",
       "sport": "Swimming",
       "team": "Kazakhstan",
@@ -1075,7 +1075,7 @@ export default {
     {
       "name": "Kayla Banwarth",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "70",
       "sport": "Volleyball",
       "team": "United States",
@@ -1087,7 +1087,7 @@ export default {
     {
       "name": "Carina Br",
       "gender": "F",
-      "height": "185",
+      "height": "1.85",
       "weight": "75",
       "sport": "Rowing",
       "team": "Germany",
@@ -1099,7 +1099,7 @@ export default {
     {
       "name": "Brbara Seixas de Freitas",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "67",
       "sport": "Beach Volleyball",
       "team": "Brazil-1",
@@ -1111,7 +1111,7 @@ export default {
     {
       "name": "Elinor Jane Barker",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "56",
       "sport": "Cycling",
       "team": "Great Britain",
@@ -1123,7 +1123,7 @@ export default {
     {
       "name": "Harrison Bryce Jordan Barnes",
       "gender": "M",
-      "height": "203",
+      "height": "2.03",
       "weight": "102",
       "sport": "Basketball",
       "team": "United States",
@@ -1135,7 +1135,7 @@ export default {
     {
       "name": "Thomas Gabriel Jrmie Baroukh",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "70",
       "sport": "Rowing",
       "team": "France",
@@ -1147,7 +1147,7 @@ export default {
     {
       "name": "Bronte Amelia Arnold Barratt",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "59",
       "sport": "Swimming",
       "team": "Australia",
@@ -1159,7 +1159,7 @@ export default {
     {
       "name": "Jennifer Mae \"Jenny\" Barringer-Simpson",
       "gender": "F",
-      "height": "166",
+      "height": "1.66",
       "weight": "53",
       "sport": "Athletics",
       "team": "United States",
@@ -1171,7 +1171,7 @@ export default {
     {
       "name": "Mutaz Essa Barshim",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "65",
       "sport": "Athletics",
       "team": "Qatar",
@@ -1183,7 +1183,7 @@ export default {
     {
       "name": "Jacob Jepsen Barse",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "73",
       "sport": "Rowing",
       "team": "Denmark",
@@ -1195,7 +1195,7 @@ export default {
     {
       "name": "Saskia Bartusiak",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "60",
       "sport": "Football",
       "team": "Germany",
@@ -1207,7 +1207,7 @@ export default {
     {
       "name": "Dimitri David Bascou",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "80",
       "sport": "Athletics",
       "team": "France",
@@ -1219,7 +1219,7 @@ export default {
     {
       "name": "Fabio Basile",
       "gender": "M",
-      "height": "160",
+      "height": "1.60",
       "weight": "66",
       "sport": "Judo",
       "team": "Italy",
@@ -1231,7 +1231,7 @@ export default {
     {
       "name": "Vitalina Igorevna Batsarashkina",
       "gender": "F",
-      "height": "162",
+      "height": "1.62",
       "weight": "60",
       "sport": "Shooting",
       "team": "Russia",
@@ -1243,7 +1243,7 @@ export default {
     {
       "name": "Mathieu Albert Daniel Bauderlique",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "81",
       "sport": "Boxing",
       "team": "France",
@@ -1255,7 +1255,7 @@ export default {
     {
       "name": "Robert Bauer",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "76",
       "sport": "Football",
       "team": "Germany",
@@ -1267,7 +1267,7 @@ export default {
     {
       "name": "Grgory Benot Baug",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "100",
       "sport": "Cycling",
       "team": "France",
@@ -1279,7 +1279,7 @@ export default {
     {
       "name": "Maxime Eugne Ren Beaumont",
       "gender": "M",
-      "height": "191",
+      "height": "1.91",
       "weight": "94",
       "sport": "Canoeing",
       "team": "France",
@@ -1291,7 +1291,7 @@ export default {
     {
       "name": "Nicole Elise Beck",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "66",
       "sport": "Rugby Sevens",
       "team": "Australia",
@@ -1303,7 +1303,7 @@ export default {
     {
       "name": "Janine Elizabeth Beckie",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "63",
       "sport": "Football",
       "team": "Canada",
@@ -1315,7 +1315,7 @@ export default {
     {
       "name": "gatha Bednarczuk Rippel",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "70",
       "sport": "Beach Volleyball",
       "team": "Brazil-1",
@@ -1327,7 +1327,7 @@ export default {
     {
       "name": "Ludger Beerbaum",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "85",
       "sport": "Equestrianism",
       "team": "Germany",
@@ -1339,7 +1339,7 @@ export default {
     {
       "name": "Genevieve \"Gen\" Behrent",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "73",
       "sport": "Rowing",
       "team": "New Zealand",
@@ -1351,7 +1351,7 @@ export default {
     {
       "name": "Melanie Behringer",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "71",
       "sport": "Football",
       "team": "Germany",
@@ -1363,7 +1363,7 @@ export default {
     {
       "name": "Milad Beigi Hareqani",
       "gender": "M",
-      "height": "197",
+      "height": "1.97",
       "weight": "80",
       "sport": "Taekwondo",
       "team": "Azerbaijan",
@@ -1375,7 +1375,7 @@ export default {
     {
       "name": "Ruth Beita Vila",
       "gender": "F",
-      "height": "191",
+      "height": "1.91",
       "weight": "72",
       "sport": "Athletics",
       "team": "Spain",
@@ -1387,7 +1387,7 @@ export default {
     {
       "name": "Jose Blanger",
       "gender": "F",
-      "height": "163",
+      "height": "1.63",
       "weight": "63",
       "sport": "Football",
       "team": "Canada",
@@ -1399,7 +1399,7 @@ export default {
     {
       "name": "Mathew Belcher",
       "gender": "M",
-      "height": "173",
+      "height": "1.73",
       "weight": "62",
       "sport": "Sailing",
       "team": "Australia",
@@ -1411,7 +1411,7 @@ export default {
     {
       "name": "Zhan Vensanovych Beleniuk",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "85",
       "sport": "Wrestling",
       "team": "Ukraine",
@@ -1423,7 +1423,7 @@ export default {
     {
       "name": "Mireia Belmonte Garca",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "59",
       "sport": "Swimming",
       "team": "Spain",
@@ -1435,7 +1435,7 @@ export default {
     {
       "name": "Mireia Belmonte Garca",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "59",
       "sport": "Swimming",
       "team": "Spain",
@@ -1447,7 +1447,7 @@ export default {
     {
       "name": "Alexander Belonogoff",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "90",
       "sport": "Rowing",
       "team": "Australia",
@@ -1459,7 +1459,7 @@ export default {
     {
       "name": "Olga Konstantinovna Belova-Gorbunova",
       "gender": "F",
-      "height": "169",
+      "height": "1.69",
       "weight": "60",
       "sport": "Water Polo",
       "team": "Russia",
@@ -1471,7 +1471,7 @@ export default {
     {
       "name": "Anastasiya Yevgenyevna Belyakova",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "60",
       "sport": "Boxing",
       "team": "Russia",
@@ -1483,7 +1483,7 @@ export default {
     {
       "name": "David Sagitovich Belyavsky",
       "gender": "M",
-      "height": "165",
+      "height": "1.65",
       "weight": "55",
       "sport": "Gymnastics",
       "team": "Russia",
@@ -1495,7 +1495,7 @@ export default {
     {
       "name": "David Sagitovich Belyavsky",
       "gender": "M",
-      "height": "165",
+      "height": "1.65",
       "weight": "55",
       "sport": "Gymnastics",
       "team": "Russia",
@@ -1507,7 +1507,7 @@ export default {
     {
       "name": "Lars Bender",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "80",
       "sport": "Football",
       "team": "Germany",
@@ -1519,7 +1519,7 @@ export default {
     {
       "name": "Sven Bender",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "80",
       "sport": "Football",
       "team": "Germany",
@@ -1531,7 +1531,7 @@ export default {
     {
       "name": "Meaghan Benfeito",
       "gender": "F",
-      "height": "155",
+      "height": "1.55",
       "weight": "48",
       "sport": "Diving",
       "team": "Canada",
@@ -1543,7 +1543,7 @@ export default {
     {
       "name": "Meaghan Benfeito",
       "gender": "F",
-      "height": "155",
+      "height": "1.55",
       "weight": "48",
       "sport": "Diving",
       "team": "Canada",
@@ -1555,7 +1555,7 @@ export default {
     {
       "name": "Brittany \"Britt\" Benn",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "68",
       "sport": "Rugby Sevens",
       "team": "Canada",
@@ -1567,7 +1567,7 @@ export default {
     {
       "name": "Karen Bennett",
       "gender": "F",
-      "height": "179",
+      "height": "1.79",
       "weight": "75",
       "sport": "Rowing",
       "team": "Great Britain",
@@ -1579,7 +1579,7 @@ export default {
     {
       "name": "Mark Stewart Bennett",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "89",
       "sport": "Rugby Sevens",
       "team": "Great Britain",
@@ -1591,7 +1591,7 @@ export default {
     {
       "name": "Paul Bennett",
       "gender": "M",
-      "height": "207",
+      "height": "2.07",
       "weight": "100",
       "sport": "Rowing",
       "team": "Great Britain",
@@ -1603,7 +1603,7 @@ export default {
     {
       "name": "Joseph \"Gunnar\" Bentz",
       "gender": "M",
-      "height": "196",
+      "height": "1.96",
       "weight": "84",
       "sport": "Swimming",
       "team": "United States",
@@ -1615,7 +1615,7 @@ export default {
     {
       "name": "Matej Beu",
       "gender": "M",
-      "height": "196",
+      "height": "1.96",
       "weight": "83",
       "sport": "Canoeing",
       "team": "Slovakia",
@@ -1627,7 +1627,7 @@ export default {
     {
       "name": "Mdlina Bere",
       "gender": "F",
-      "height": "186",
+      "height": "1.86",
       "weight": "75",
       "sport": "Rowing",
       "team": "Romania",
@@ -1639,7 +1639,7 @@ export default {
     {
       "name": "Stig Andr Berge",
       "gender": "M",
-      "height": "167",
+      "height": "1.67",
       "weight": "60",
       "sport": "Wrestling",
       "team": "Norway",
@@ -1651,7 +1651,7 @@ export default {
     {
       "name": "Emma Sofia Berglund",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "64",
       "sport": "Football",
       "team": "Sweden",
@@ -1663,7 +1663,7 @@ export default {
     {
       "name": "Nicole Beukers",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "66",
       "sport": "Rowing",
       "team": "Netherlands",
@@ -1675,7 +1675,7 @@ export default {
     {
       "name": "Allison Beveridge",
       "gender": "F",
-      "height": "169",
+      "height": "1.69",
       "weight": "62",
       "sport": "Cycling",
       "team": "Canada",
@@ -1687,7 +1687,7 @@ export default {
     {
       "name": "Roberta Bianconi",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "76",
       "sport": "Water Polo",
       "team": "Italy",
@@ -1699,7 +1699,7 @@ export default {
     {
       "name": "Daniel \"Dan\" Bibby",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "86",
       "sport": "Rugby Sevens",
       "team": "Great Britain",
@@ -1711,7 +1711,7 @@ export default {
     {
       "name": "Fiona Clare Bigwood",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "75",
       "sport": "Equestrianism",
       "team": "Great Britain",
@@ -1723,7 +1723,7 @@ export default {
     {
       "name": "Marko Bija",
       "gender": "M",
-      "height": "201",
+      "height": "2.01",
       "weight": "85",
       "sport": "Water Polo",
       "team": "Croatia",
@@ -1735,7 +1735,7 @@ export default {
     {
       "name": "Simone Arianne Biles",
       "gender": "F",
-      "height": "143",
+      "height": "1.43",
       "weight": "47",
       "sport": "Gymnastics",
       "team": "United States",
@@ -1747,7 +1747,7 @@ export default {
     {
       "name": "Simone Arianne Biles",
       "gender": "F",
-      "height": "143",
+      "height": "1.43",
       "weight": "47",
       "sport": "Gymnastics",
       "team": "United States",
@@ -1759,7 +1759,7 @@ export default {
     {
       "name": "Simone Arianne Biles",
       "gender": "F",
-      "height": "143",
+      "height": "1.43",
       "weight": "47",
       "sport": "Gymnastics",
       "team": "United States",
@@ -1771,7 +1771,7 @@ export default {
     {
       "name": "Simone Arianne Biles",
       "gender": "F",
-      "height": "143",
+      "height": "1.43",
       "weight": "47",
       "sport": "Gymnastics",
       "team": "United States",
@@ -1783,7 +1783,7 @@ export default {
     {
       "name": "Simone Arianne Biles",
       "gender": "F",
-      "height": "143",
+      "height": "1.43",
       "weight": "47",
       "sport": "Gymnastics",
       "team": "United States",
@@ -1795,7 +1795,7 @@ export default {
     {
       "name": "Emanuele Birarelli",
       "gender": "M",
-      "height": "202",
+      "height": "2.02",
       "weight": "95",
       "sport": "Volleyball",
       "team": "Italy",
@@ -1807,7 +1807,7 @@ export default {
     {
       "name": "Stefan Birevi",
       "gender": "M",
-      "height": "210",
+      "height": "2.10",
       "weight": "104",
       "sport": "Basketball",
       "team": "Serbia",
@@ -1819,7 +1819,7 @@ export default {
     {
       "name": "Suzanne Brigit \"Sue\" Bird",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "66",
       "sport": "Basketball",
       "team": "United States",
@@ -1831,7 +1831,7 @@ export default {
     {
       "name": "Dane Alex Bird-Smith",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "72",
       "sport": "Athletics",
       "team": "Australia",
@@ -1843,7 +1843,7 @@ export default {
     {
       "name": "Vera Leonidovna Biryukova",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "47",
       "sport": "Rhythmic Gymnastics",
       "team": "Russia",
@@ -1855,7 +1855,7 @@ export default {
     {
       "name": "Emma Stina Blackstenius",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "69",
       "sport": "Football",
       "team": "Sweden",
@@ -1867,7 +1867,7 @@ export default {
     {
       "name": "Yohan Blake",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "80",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -1879,7 +1879,7 @@ export default {
     {
       "name": "Irina Valeryevna Bliznova",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "68",
       "sport": "Handball",
       "team": "Russia",
@@ -1891,7 +1891,7 @@ export default {
     {
       "name": "Anastasiya Ilyinichna Bliznyuk",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "51",
       "sport": "Rhythmic Gymnastics",
       "team": "Russia",
@@ -1903,7 +1903,7 @@ export default {
     {
       "name": "Pernille Blume",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "58",
       "sport": "Swimming",
       "team": "Denmark",
@@ -1915,7 +1915,7 @@ export default {
     {
       "name": "Pernille Blume",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "58",
       "sport": "Swimming",
       "team": "Denmark",
@@ -1927,7 +1927,7 @@ export default {
     {
       "name": "Jack Bobridge",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "65",
       "sport": "Cycling",
       "team": "Australia",
@@ -1939,7 +1939,7 @@ export default {
     {
       "name": "Vladlena Eduardovna Bobrovnikova",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "72",
       "sport": "Handball",
       "team": "Russia",
@@ -1951,7 +1951,7 @@ export default {
     {
       "name": "Gauthier Boccard",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "79",
       "sport": "Hockey",
       "team": "Belgium",
@@ -1963,7 +1963,7 @@ export default {
     {
       "name": "Gbor Gyula Boczk",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "89",
       "sport": "Fencing",
       "team": "Hungary",
@@ -1975,7 +1975,7 @@ export default {
     {
       "name": "Michal Alexandre Bodegas",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "102",
       "sport": "Water Polo",
       "team": "Italy",
@@ -1987,7 +1987,7 @@ export default {
     {
       "name": "Bogdan Bogdanovi",
       "gender": "M",
-      "height": "197",
+      "height": "1.97",
       "weight": "99",
       "sport": "Basketball",
       "team": "Serbia",
@@ -1999,7 +1999,7 @@ export default {
     {
       "name": "Tijana Bogdanovi",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "52",
       "sport": "Taekwondo",
       "team": "Serbia",
@@ -2011,7 +2011,7 @@ export default {
     {
       "name": "Andreea Boghian",
       "gender": "F",
-      "height": "186",
+      "height": "1.86",
       "weight": "78",
       "sport": "Rowing",
       "team": "Romania",
@@ -2023,7 +2023,7 @@ export default {
     {
       "name": "Shmagi Bolkvadze",
       "gender": "M",
-      "height": "170",
+      "height": "1.70",
       "weight": "66",
       "sport": "Wrestling",
       "team": "Georgia",
@@ -2035,7 +2035,7 @@ export default {
     {
       "name": "Timo Boll",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "74",
       "sport": "Table Tennis",
       "team": "Germany",
@@ -2047,7 +2047,7 @@ export default {
     {
       "name": "Usain St. Leo Bolt",
       "gender": "M",
-      "height": "196",
+      "height": "1.96",
       "weight": "95",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -2059,7 +2059,7 @@ export default {
     {
       "name": "Usain St. Leo Bolt",
       "gender": "M",
-      "height": "196",
+      "height": "1.96",
       "weight": "95",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -2071,7 +2071,7 @@ export default {
     {
       "name": "Usain St. Leo Bolt",
       "gender": "M",
-      "height": "196",
+      "height": "1.96",
       "weight": "95",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -2083,7 +2083,7 @@ export default {
     {
       "name": "Hamish Byron Bond",
       "gender": "M",
-      "height": "189",
+      "height": "1.89",
       "weight": "89",
       "sport": "Rowing",
       "team": "New Zealand",
@@ -2095,7 +2095,7 @@ export default {
     {
       "name": "Bohdan Viktorovych Bondarenko",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "77",
       "sport": "Athletics",
       "team": "Ukraine",
@@ -2107,7 +2107,7 @@ export default {
     {
       "name": "Tom Boon",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "81",
       "sport": "Hockey",
       "team": "Belgium",
@@ -2119,7 +2119,7 @@ export default {
     {
       "name": "Joshua \"Josh\" Booth",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "93",
       "sport": "Rowing",
       "team": "Australia",
@@ -2131,7 +2131,7 @@ export default {
     {
       "name": "Kjetil Borch",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "84",
       "sport": "Rowing",
       "team": "Norway",
@@ -2143,7 +2143,7 @@ export default {
     {
       "name": "Yannick Philippe Andr Borel",
       "gender": "M",
-      "height": "197",
+      "height": "1.97",
       "weight": "100",
       "sport": "Fencing",
       "team": "France",
@@ -2155,7 +2155,7 @@ export default {
     {
       "name": "Maurcio Borges Almeida Silva",
       "gender": "M",
-      "height": "199",
+      "height": "1.99",
       "weight": "99",
       "sport": "Volleyball",
       "team": "Brazil",
@@ -2167,7 +2167,7 @@ export default {
     {
       "name": "Mariya Olegovna Borisova",
       "gender": "F",
-      "height": "184",
+      "height": "1.84",
       "weight": "95",
       "sport": "Water Polo",
       "team": "Russia",
@@ -2179,7 +2179,7 @@ export default {
     {
       "name": "Ismael Borrero Molina",
       "gender": "M",
-      "height": "160",
+      "height": "1.60",
       "weight": "59",
       "sport": "Wrestling",
       "team": "Cuba",
@@ -2191,7 +2191,7 @@ export default {
     {
       "name": "Willemijn Bos",
       "gender": "F",
-      "height": "181",
+      "height": "1.81",
       "weight": "69",
       "sport": "Hockey",
       "team": "Netherlands",
@@ -2203,7 +2203,7 @@ export default {
     {
       "name": "Tijana Bokovi",
       "gender": "F",
-      "height": "193",
+      "height": "1.93",
       "weight": "82",
       "sport": "Volleyball",
       "team": "Serbia",
@@ -2215,7 +2215,7 @@ export default {
     {
       "name": "Roger-Yves Bost",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "80",
       "sport": "Equestrianism",
       "team": "France",
@@ -2227,7 +2227,7 @@ export default {
     {
       "name": "Ins Boubakri",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "56",
       "sport": "Fencing",
       "team": "Tunisia",
@@ -2239,7 +2239,7 @@ export default {
     {
       "name": "David Alasdair Boudia",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "73",
       "sport": "Diving",
       "team": "United States",
@@ -2251,7 +2251,7 @@ export default {
     {
       "name": "David Alasdair Boudia",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "73",
       "sport": "Diving",
       "team": "United States",
@@ -2263,7 +2263,7 @@ export default {
     {
       "name": "Carline Bouw",
       "gender": "F",
-      "height": "184",
+      "height": "1.84",
       "weight": "72",
       "sport": "Rowing",
       "team": "Netherlands",
@@ -2275,7 +2275,7 @@ export default {
     {
       "name": "Marit Bouwmeester",
       "gender": "F",
-      "height": "177",
+      "height": "1.77",
       "weight": "68",
       "sport": "Sailing",
       "team": "Netherlands",
@@ -2287,7 +2287,7 @@ export default {
     {
       "name": "Frentorish \"Tori\" Bowie",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "58",
       "sport": "Athletics",
       "team": "United States",
@@ -2299,7 +2299,7 @@ export default {
     {
       "name": "Frentorish \"Tori\" Bowie",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "58",
       "sport": "Athletics",
       "team": "United States",
@@ -2311,7 +2311,7 @@ export default {
     {
       "name": "Frentorish \"Tori\" Bowie",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "58",
       "sport": "Athletics",
       "team": "United States",
@@ -2323,7 +2323,7 @@ export default {
     {
       "name": "Jovana Brakoevi-Kancian",
       "gender": "F",
-      "height": "196",
+      "height": "1.96",
       "weight": "82",
       "sport": "Volleyball",
       "team": "Serbia",
@@ -2335,7 +2335,7 @@ export default {
     {
       "name": "Julian Brandt",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "83",
       "sport": "Football",
       "team": "Germany",
@@ -2347,7 +2347,7 @@ export default {
     {
       "name": "Ana Maria Florentina Brnz-Popescu",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "64",
       "sport": "Fencing",
       "team": "Romania",
@@ -2359,7 +2359,7 @@ export default {
     {
       "name": "Sophie Charlotte Bray",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "58",
       "sport": "Hockey",
       "team": "Great Britain",
@@ -2371,7 +2371,7 @@ export default {
     {
       "name": "Thiago Braz da Silva",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "75",
       "sport": "Athletics",
       "team": "Brazil",
@@ -2383,7 +2383,7 @@ export default {
     {
       "name": "Kelly Brazier",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "70",
       "sport": "Rugby Sevens",
       "team": "New Zealand",
@@ -2395,7 +2395,7 @@ export default {
     {
       "name": "Sebastian Brendel",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "92",
       "sport": "Canoeing",
       "team": "Germany",
@@ -2407,7 +2407,7 @@ export default {
     {
       "name": "Sebastian Brendel",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "92",
       "sport": "Canoeing",
       "team": "Germany",
@@ -2419,7 +2419,7 @@ export default {
     {
       "name": "Thomas Briels",
       "gender": "M",
-      "height": "172",
+      "height": "1.72",
       "weight": "71",
       "sport": "Hockey",
       "team": "Belgium",
@@ -2431,7 +2431,7 @@ export default {
     {
       "name": "Lawrence Brittain",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "94",
       "sport": "Rowing",
       "team": "South Africa",
@@ -2443,7 +2443,7 @@ export default {
     {
       "name": "Allison M. Brock",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "59",
       "sport": "Equestrianism",
       "team": "United States",
@@ -2455,7 +2455,7 @@ export default {
     {
       "name": "Kristina Brring-Sprehe",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "54",
       "sport": "Equestrianism",
       "team": "Germany",
@@ -2467,7 +2467,7 @@ export default {
     {
       "name": "Kristina Brring-Sprehe",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "54",
       "sport": "Equestrianism",
       "team": "Germany",
@@ -2479,7 +2479,7 @@ export default {
     {
       "name": "Gayle Broughton",
       "gender": "F",
-      "height": "174",
+      "height": "1.74",
       "weight": "70",
       "sport": "Rugby Sevens",
       "team": "New Zealand",
@@ -2491,7 +2491,7 @@ export default {
     {
       "name": "Alexander Brouwer",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "88",
       "sport": "Beach Volleyball",
       "team": "Netherlands-1",
@@ -2503,7 +2503,7 @@ export default {
     {
       "name": "Aaron Brown",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "79",
       "sport": "Athletics",
       "team": "Canada",
@@ -2515,7 +2515,7 @@ export default {
     {
       "name": "Christopher Deon \"Chris\" Brown",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "75",
       "sport": "Athletics",
       "team": "Bahamas",
@@ -2527,7 +2527,7 @@ export default {
     {
       "name": "Kyle Gie Brown",
       "gender": "M",
-      "height": "182",
+      "height": "1.82",
       "weight": "92",
       "sport": "Rugby Sevens",
       "team": "South Africa",
@@ -2539,7 +2539,7 @@ export default {
     {
       "name": "Laura Brown",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "61",
       "sport": "Cycling",
       "team": "Canada",
@@ -2551,7 +2551,7 @@ export default {
     {
       "name": "Alistair Edward Brownlee",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "70",
       "sport": "Triathlon",
       "team": "Great Britain",
@@ -2563,7 +2563,7 @@ export default {
     {
       "name": "Jonathan Callum \"Jonny\" Brownlee",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "70",
       "sport": "Triathlon",
       "team": "Great Britain",
@@ -2575,7 +2575,7 @@ export default {
     {
       "name": "Kristoffer Brun",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "70",
       "sport": "Rowing",
       "team": "Norway",
@@ -2587,7 +2587,7 @@ export default {
     {
       "name": "Manuel Brunet",
       "gender": "M",
-      "height": "179",
+      "height": "1.79",
       "weight": "79",
       "sport": "Hockey",
       "team": "Argentina",
@@ -2599,7 +2599,7 @@ export default {
     {
       "name": "Rachele Bruni",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "59",
       "sport": "Swimming",
       "team": "Italy",
@@ -2611,7 +2611,7 @@ export default {
     {
       "name": "Bruno \"Bruninho\" Mossa de Rezende",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "76",
       "sport": "Volleyball",
       "team": "Brazil",
@@ -2623,7 +2623,7 @@ export default {
     {
       "name": "Joshua Buatsi",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "81",
       "sport": "Boxing",
       "team": "Great Britain",
@@ -2635,7 +2635,7 @@ export default {
     {
       "name": "Kadeisha Buchanan",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "65",
       "sport": "Football",
       "team": "Canada",
@@ -2647,7 +2647,7 @@ export default {
     {
       "name": "Matthijs Bchli",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "90",
       "sport": "Cycling",
       "team": "Netherlands",
@@ -2659,7 +2659,7 @@ export default {
     {
       "name": "Luka Buki",
       "gender": "M",
-      "height": "195",
+      "height": "1.95",
       "weight": "90",
       "sport": "Water Polo",
       "team": "Croatia",
@@ -2671,7 +2671,7 @@ export default {
     {
       "name": "Yekaterina Borisovna Bukina",
       "gender": "F",
-      "height": "174",
+      "height": "1.74",
       "weight": "75",
       "sport": "Wrestling",
       "team": "Russia",
@@ -2683,7 +2683,7 @@ export default {
     {
       "name": "Chlo Bulleux",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "65",
       "sport": "Handball",
       "team": "France",
@@ -2695,7 +2695,7 @@ export default {
     {
       "name": "Phil Burgess",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "92",
       "sport": "Rugby Sevens",
       "team": "Great Britain",
@@ -2707,8 +2707,8 @@ export default {
     {
       "name": "Damir Buri",
       "gender": "M",
-      "height": "205",
-      "weight": "115",
+      "height": "2.05",
+      "weight": "1.15",
       "sport": "Water Polo",
       "team": "Croatia",
       "noc": "CRO",
@@ -2719,7 +2719,7 @@ export default {
     {
       "name": "Steven James Burke",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "78",
       "sport": "Cycling",
       "team": "Great Britain",
@@ -2731,7 +2731,7 @@ export default {
     {
       "name": "Peter Burling",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "82",
       "sport": "Sailing",
       "team": "New Zealand",
@@ -2743,7 +2743,7 @@ export default {
     {
       "name": "Christopher Burton",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "70",
       "sport": "Equestrianism",
       "team": "Australia",
@@ -2755,7 +2755,7 @@ export default {
     {
       "name": "Tom Burton",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "81",
       "sport": "Sailing",
       "team": "Australia",
@@ -2767,7 +2767,7 @@ export default {
     {
       "name": "Bianka Bua",
       "gender": "F",
-      "height": "187",
+      "height": "1.87",
       "weight": "74",
       "sport": "Volleyball",
       "team": "Serbia",
@@ -2779,7 +2779,7 @@ export default {
     {
       "name": "Andro Bulje",
       "gender": "M",
-      "height": "200",
+      "height": "2.00",
       "weight": "115",
       "sport": "Water Polo",
       "team": "Croatia",
@@ -2791,7 +2791,7 @@ export default {
     {
       "name": "Simone Buti",
       "gender": "M",
-      "height": "206",
+      "height": "2.06",
       "weight": "100",
       "sport": "Volleyball",
       "team": "Italy",
@@ -2803,7 +2803,7 @@ export default {
     {
       "name": "Jimmy Butler III",
       "gender": "M",
-      "height": "201",
+      "height": "2.01",
       "weight": "99",
       "sport": "Basketball",
       "team": "United States",
@@ -2815,7 +2815,7 @@ export default {
     {
       "name": "Linus Butt",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "83",
       "sport": "Hockey",
       "team": "Germany",
@@ -2827,7 +2827,7 @@ export default {
     {
       "name": "Dajana Butulija",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "65",
       "sport": "Basketball",
       "team": "Serbia",
@@ -2839,7 +2839,7 @@ export default {
     {
       "name": "Denia Caballero Ponce",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "70",
       "sport": "Athletics",
       "team": "Cuba",
@@ -2851,7 +2851,7 @@ export default {
     {
       "name": "Jrmy Cadot",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "78",
       "sport": "Fencing",
       "team": "France",
@@ -2863,7 +2863,7 @@ export default {
     {
       "name": "Tania Cagnotto (-Parolin)",
       "gender": "F",
-      "height": "160",
+      "height": "1.60",
       "weight": "54",
       "sport": "Diving",
       "team": "Italy",
@@ -2875,7 +2875,7 @@ export default {
     {
       "name": "Tania Cagnotto (-Parolin)",
       "gender": "F",
-      "height": "160",
+      "height": "1.60",
       "weight": "54",
       "sport": "Diving",
       "team": "Italy",
@@ -2887,7 +2887,7 @@ export default {
     {
       "name": "Cai Zelin",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "55",
       "sport": "Athletics",
       "team": "China",
@@ -2899,7 +2899,7 @@ export default {
     {
       "name": "Chiara Cainero",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "81",
       "sport": "Shooting",
       "team": "Italy",
@@ -2911,7 +2911,7 @@ export default {
     {
       "name": "Jos Manuel Caldern Borrallo",
       "gender": "M",
-      "height": "191",
+      "height": "1.91",
       "weight": "90",
       "sport": "Basketball",
       "team": "Spain",
@@ -2923,7 +2923,7 @@ export default {
     {
       "name": "Hilary Caldwell",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "61",
       "sport": "Swimming",
       "team": "Canada",
@@ -2935,7 +2935,7 @@ export default {
     {
       "name": "Facundo Callioni",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "77",
       "sport": "Hockey",
       "team": "Argentina",
@@ -2947,7 +2947,7 @@ export default {
     {
       "name": "Eva Calvo Gmez",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "57",
       "sport": "Taekwondo",
       "team": "Spain",
@@ -2959,7 +2959,7 @@ export default {
     {
       "name": "Asuka Antonio \"Aska\" Cambridge",
       "gender": "M",
-      "height": "179",
+      "height": "1.79",
       "weight": "74",
       "sport": "Athletics",
       "team": "Japan",
@@ -2971,7 +2971,7 @@ export default {
     {
       "name": "Bronte Campbell",
       "gender": "F",
-      "height": "179",
+      "height": "1.79",
       "weight": "58",
       "sport": "Swimming",
       "team": "Australia",
@@ -2983,7 +2983,7 @@ export default {
     {
       "name": "Cate Natalie Campbell",
       "gender": "F",
-      "height": "186",
+      "height": "1.86",
       "weight": "67",
       "sport": "Swimming",
       "team": "Australia",
@@ -2995,7 +2995,7 @@ export default {
     {
       "name": "Cate Natalie Campbell",
       "gender": "F",
-      "height": "186",
+      "height": "1.86",
       "weight": "67",
       "sport": "Swimming",
       "team": "Australia",
@@ -3007,7 +3007,7 @@ export default {
     {
       "name": "Veronica Angella Campbell-Brown",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "58",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -3019,7 +3019,7 @@ export default {
     {
       "name": "Niccol Campriani",
       "gender": "M",
-      "height": "177",
+      "height": "1.77",
       "weight": "80",
       "sport": "Shooting",
       "team": "Italy",
@@ -3031,7 +3031,7 @@ export default {
     {
       "name": "Niccol Campriani",
       "gender": "M",
-      "height": "177",
+      "height": "1.77",
       "weight": "80",
       "sport": "Shooting",
       "team": "Italy",
@@ -3043,7 +3043,7 @@ export default {
     {
       "name": "Fabian Cancellara",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "81",
       "sport": "Cycling",
       "team": "Switzerland",
@@ -3055,7 +3055,7 @@ export default {
     {
       "name": "Cao Yuan",
       "gender": "M",
-      "height": "160",
+      "height": "1.60",
       "weight": "42",
       "sport": "Diving",
       "team": "China",
@@ -3067,7 +3067,7 @@ export default {
     {
       "name": "Cao Yuan",
       "gender": "M",
-      "height": "160",
+      "height": "1.60",
       "weight": "42",
       "sport": "Diving",
       "team": "China",
@@ -3079,7 +3079,7 @@ export default {
     {
       "name": "Jazmin Roxy \"Jazz\" Carlin",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "57",
       "sport": "Swimming",
       "team": "Great Britain",
@@ -3091,7 +3091,7 @@ export default {
     {
       "name": "Jazmin Roxy \"Jazz\" Carlin",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "57",
       "sport": "Swimming",
       "team": "Great Britain",
@@ -3103,7 +3103,7 @@ export default {
     {
       "name": "Olivia Frances Carnegie-Brown",
       "gender": "F",
-      "height": "181",
+      "height": "1.81",
       "weight": "73",
       "sport": "Rowing",
       "team": "Great Britain",
@@ -3115,7 +3115,7 @@ export default {
     {
       "name": "Cecilia Carranza Saroli",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "63",
       "sport": "Sailing",
       "team": "Argentina",
@@ -3127,7 +3127,7 @@ export default {
     {
       "name": "Lisa Carrington",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "63",
       "sport": "Canoeing",
       "team": "New Zealand",
@@ -3139,7 +3139,7 @@ export default {
     {
       "name": "Lisa Carrington",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "63",
       "sport": "Canoeing",
       "team": "New Zealand",
@@ -3151,7 +3151,7 @@ export default {
     {
       "name": "Michelle Denee Carter",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "136",
       "sport": "Athletics",
       "team": "United States",
@@ -3163,7 +3163,7 @@ export default {
     {
       "name": "Charlotte Caslick",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "65",
       "sport": "Rugby Sevens",
       "team": "Australia",
@@ -3175,7 +3175,7 @@ export default {
     {
       "name": "Matteo Castaldo",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "86",
       "sport": "Rowing",
       "team": "Italy",
@@ -3187,7 +3187,7 @@ export default {
     {
       "name": "Kristi Castlin",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "60",
       "sport": "Athletics",
       "team": "United States",
@@ -3199,7 +3199,7 @@ export default {
     {
       "name": "Tamika Devonne Catchings",
       "gender": "F",
-      "height": "185",
+      "height": "1.85",
       "weight": "77",
       "sport": "Basketball",
       "team": "United States",
@@ -3211,7 +3211,7 @@ export default {
     {
       "name": "Kelly Catlin",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "63",
       "sport": "Cycling",
       "team": "United States",
@@ -3223,7 +3223,7 @@ export default {
     {
       "name": "Mark Simon Cavendish",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "70",
       "sport": "Cycling",
       "team": "Great Britain",
@@ -3235,7 +3235,7 @@ export default {
     {
       "name": "Saa ao",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "72",
       "sport": "Basketball",
       "team": "Serbia",
@@ -3247,7 +3247,7 @@ export default {
     {
       "name": "Matthew Gerald \"Matt\" Centrowitz, Jr.",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "65",
       "sport": "Athletics",
       "team": "United States",
@@ -3259,7 +3259,7 @@ export default {
     {
       "name": "Davit Gochayevich Chakvetadze",
       "gender": "M",
-      "height": "174",
+      "height": "1.74",
       "weight": "85",
       "sport": "Wrestling",
       "team": "Russia",
@@ -3271,7 +3271,7 @@ export default {
     {
       "name": "Kyle Chalmers",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "90",
       "sport": "Swimming",
       "team": "Australia",
@@ -3283,7 +3283,7 @@ export default {
     {
       "name": "Kyle Chalmers",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "90",
       "sport": "Swimming",
       "team": "Australia",
@@ -3295,7 +3295,7 @@ export default {
     {
       "name": "Kyle Chalmers",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "90",
       "sport": "Swimming",
       "team": "Australia",
@@ -3307,7 +3307,7 @@ export default {
     {
       "name": "Frank Chamizo Marquez",
       "gender": "M",
-      "height": "172",
+      "height": "1.72",
       "weight": "65",
       "sport": "Wrestling",
       "team": "Italy",
@@ -3319,7 +3319,7 @@ export default {
     {
       "name": "Miles Cleveland Chamley-Watson",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "80",
       "sport": "Fencing",
       "team": "United States",
@@ -3331,7 +3331,7 @@ export default {
     {
       "name": "Chan Peng Soon",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "68",
       "sport": "Badminton",
       "team": "Malaysia",
@@ -3343,7 +3343,7 @@ export default {
     {
       "name": "Chang Hye-Jin",
       "gender": "F",
-      "height": "158",
+      "height": "1.58",
       "weight": "50",
       "sport": "Archery",
       "team": "South Korea",
@@ -3355,7 +3355,7 @@ export default {
     {
       "name": "Chang Hye-Jin",
       "gender": "F",
-      "height": "158",
+      "height": "1.58",
       "weight": "50",
       "sport": "Archery",
       "team": "South Korea",
@@ -3367,7 +3367,7 @@ export default {
     {
       "name": "Allysha Chapman",
       "gender": "F",
-      "height": "160",
+      "height": "1.60",
       "weight": "56",
       "sport": "Football",
       "team": "Canada",
@@ -3379,7 +3379,7 @@ export default {
     {
       "name": "Tina Alexandria Charles",
       "gender": "F",
-      "height": "193",
+      "height": "1.93",
       "weight": "88",
       "sport": "Basketball",
       "team": "United States",
@@ -3391,7 +3391,7 @@ export default {
     {
       "name": "Cdric Charlier",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "81",
       "sport": "Hockey",
       "team": "Belgium",
@@ -3403,7 +3403,7 @@ export default {
     {
       "name": "Yuriy Volodymyrovych Cheban",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "93",
       "sport": "Canoeing",
       "team": "Ukraine",
@@ -3415,7 +3415,7 @@ export default {
     {
       "name": "Paul Kipkemboi Chelimo",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "57",
       "sport": "Athletics",
       "team": "United States",
@@ -3427,7 +3427,7 @@ export default {
     {
       "name": "Chen Aisen",
       "gender": "M",
-      "height": "168",
+      "height": "1.68",
       "weight": "60",
       "sport": "Diving",
       "team": "China",
@@ -3439,7 +3439,7 @@ export default {
     {
       "name": "Chen Aisen",
       "gender": "M",
-      "height": "168",
+      "height": "1.68",
       "weight": "60",
       "sport": "Diving",
       "team": "China",
@@ -3451,7 +3451,7 @@ export default {
     {
       "name": "Chen Long",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "81",
       "sport": "Badminton",
       "team": "China",
@@ -3463,7 +3463,7 @@ export default {
     {
       "name": "Chen Peina",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "63",
       "sport": "Sailing",
       "team": "China",
@@ -3475,7 +3475,7 @@ export default {
     {
       "name": "Chen Ruolin",
       "gender": "F",
-      "height": "160",
+      "height": "1.60",
       "weight": "47",
       "sport": "Diving",
       "team": "China",
@@ -3487,7 +3487,7 @@ export default {
     {
       "name": "Cheng Xunzhao",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "90",
       "sport": "Judo",
       "team": "China",
@@ -3499,7 +3499,7 @@ export default {
     {
       "name": "Cheong Jun Hoong",
       "gender": "F",
-      "height": "150",
+      "height": "1.50",
       "weight": "48",
       "sport": "Diving",
       "team": "Malaysia",
@@ -3511,7 +3511,7 @@ export default {
     {
       "name": "Aleksey Borisovich Cheremisinov",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "75",
       "sport": "Fencing",
       "team": "Russia",
@@ -3523,7 +3523,7 @@ export default {
     {
       "name": "Emilee Cherry",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "70",
       "sport": "Rugby Sevens",
       "team": "Australia",
@@ -3535,7 +3535,7 @@ export default {
     {
       "name": "Vivian Jepkemoi Cheruiyot",
       "gender": "F",
-      "height": "153",
+      "height": "1.53",
       "weight": "40",
       "sport": "Athletics",
       "team": "Kenya",
@@ -3547,7 +3547,7 @@ export default {
     {
       "name": "Vivian Jepkemoi Cheruiyot",
       "gender": "F",
-      "height": "153",
+      "height": "1.53",
       "weight": "40",
       "sport": "Athletics",
       "team": "Kenya",
@@ -3559,7 +3559,7 @@ export default {
     {
       "name": "Vlada Aleksandrovna Chigiryova",
       "gender": "F",
-      "height": "162",
+      "height": "1.62",
       "weight": "46",
       "sport": "Synchronized Swimming",
       "team": "Russia",
@@ -3571,7 +3571,7 @@ export default {
     {
       "name": "Eilidh Child-Doyle",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "60",
       "sport": "Athletics",
       "team": "Great Britain",
@@ -3583,7 +3583,7 @@ export default {
     {
       "name": "Choe Hyo-Sim",
       "gender": "F",
-      "height": "159",
+      "height": "1.59",
       "weight": "63",
       "sport": "Weightlifting",
       "team": "North Korea",
@@ -3595,7 +3595,7 @@ export default {
     {
       "name": "Choi Mi-Sun",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "53",
       "sport": "Archery",
       "team": "South Korea",
@@ -3607,7 +3607,7 @@ export default {
     {
       "name": "Maialen Chourraut Yurramendi",
       "gender": "F",
-      "height": "161",
+      "height": "1.61",
       "weight": "55",
       "sport": "Canoeing",
       "team": "Spain",
@@ -3619,7 +3619,7 @@ export default {
     {
       "name": "Micah Makanamaikalani Christenson",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "86",
       "sport": "Volleyball",
       "team": "United States",
@@ -3631,7 +3631,7 @@ export default {
     {
       "name": "Mads Christiansen",
       "gender": "M",
-      "height": "197",
+      "height": "1.97",
       "weight": "93",
       "sport": "Handball",
       "team": "Denmark",
@@ -3643,7 +3643,7 @@ export default {
     {
       "name": "Max Christiansen",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "84",
       "sport": "Football",
       "team": "Germany",
@@ -3655,7 +3655,7 @@ export default {
     {
       "name": "Anton Mikhaylovich Chupkov",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "71",
       "sport": "Swimming",
       "team": "Russia",
@@ -3667,7 +3667,7 @@ export default {
     {
       "name": "Monika Ciaciuch",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "74",
       "sport": "Rowing",
       "team": "Poland",
@@ -3679,7 +3679,7 @@ export default {
     {
       "name": "Cheick Sallah Ciss Junior",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "80",
       "sport": "Taekwondo",
       "team": "Cote d'Ivoire",
@@ -3691,7 +3691,7 @@ export default {
     {
       "name": "Souleymane Diop Cissokho",
       "gender": "M",
-      "height": "179",
+      "height": "1.79",
       "weight": "69",
       "sport": "Boxing",
       "team": "France",
@@ -3703,7 +3703,7 @@ export default {
     {
       "name": "Edward \"Ed\" Clancy",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "79",
       "sport": "Cycling",
       "team": "Great Britain",
@@ -3715,7 +3715,7 @@ export default {
     {
       "name": "Caroline Archer \"KK\" Clark",
       "gender": "F",
-      "height": "188",
+      "height": "1.88",
       "weight": "72",
       "sport": "Water Polo",
       "team": "United States",
@@ -3727,7 +3727,7 @@ export default {
     {
       "name": "Saskia Clark",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "68",
       "sport": "Sailing",
       "team": "Great Britain",
@@ -3739,7 +3739,7 @@ export default {
     {
       "name": "Joseph \"Joe\" Clarke",
       "gender": "M",
-      "height": "182",
+      "height": "1.82",
       "weight": "76",
       "sport": "Canoeing",
       "team": "Great Britain",
@@ -3751,7 +3751,7 @@ export default {
     {
       "name": "Vctor Claver Arocas",
       "gender": "M",
-      "height": "206",
+      "height": "2.06",
       "weight": "107",
       "sport": "Basketball",
       "team": "Spain",
@@ -3763,7 +3763,7 @@ export default {
     {
       "name": "William Bundu \"Will\" Claye",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "72",
       "sport": "Athletics",
       "team": "United States",
@@ -3775,7 +3775,7 @@ export default {
     {
       "name": "Kerron Stephon Clement",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "86",
       "sport": "Athletics",
       "team": "United States",
@@ -3787,7 +3787,7 @@ export default {
     {
       "name": "Kyle Clemons",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "74",
       "sport": "Athletics",
       "team": "United States",
@@ -3799,7 +3799,7 @@ export default {
     {
       "name": "lodie Pascaline Clouvel",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "69",
       "sport": "Modern Pentathlon",
       "team": "France",
@@ -3811,7 +3811,7 @@ export default {
     {
       "name": "Emma Jane Coburn",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "54",
       "sport": "Athletics",
       "team": "United States",
@@ -3823,7 +3823,7 @@ export default {
     {
       "name": "Corey Cogdell-Unrein",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "70",
       "sport": "Shooting",
       "team": "United States",
@@ -3835,7 +3835,7 @@ export default {
     {
       "name": "Roxana Gabriela Cogianu",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "72",
       "sport": "Rowing",
       "team": "Romania",
@@ -3847,7 +3847,7 @@ export default {
     {
       "name": "Adelina Maria Cojocariu-Bogus",
       "gender": "F",
-      "height": "186",
+      "height": "1.86",
       "weight": "75",
       "sport": "Rowing",
       "team": "Romania",
@@ -3859,7 +3859,7 @@ export default {
     {
       "name": "Massimo Colaci",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "75",
       "sport": "Volleyball",
       "team": "Italy",
@@ -3871,7 +3871,7 @@ export default {
     {
       "name": "Thibault Colard",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "70",
       "sport": "Rowing",
       "team": "France",
@@ -3883,7 +3883,7 @@ export default {
     {
       "name": "Carlos Coloma Nicols",
       "gender": "M",
-      "height": "171",
+      "height": "1.71",
       "weight": "65",
       "sport": "Cycling",
       "team": "Spain",
@@ -3895,7 +3895,7 @@ export default {
     {
       "name": "Robson Donato Conceio",
       "gender": "M",
-      "height": "171",
+      "height": "1.71",
       "weight": "57",
       "sport": "Boxing",
       "team": "Brazil",
@@ -3907,7 +3907,7 @@ export default {
     {
       "name": "John \"Jack\" Conger",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "80",
       "sport": "Swimming",
       "team": "United States",
@@ -3919,7 +3919,7 @@ export default {
     {
       "name": "Sally Conway",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "70",
       "sport": "Judo",
       "team": "Great Britain",
@@ -3931,7 +3931,7 @@ export default {
     {
       "name": "Tamsin Cook",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "61",
       "sport": "Swimming",
       "team": "Australia",
@@ -3943,7 +3943,7 @@ export default {
     {
       "name": "Yasmani Copello Escobar",
       "gender": "M",
-      "height": "191",
+      "height": "1.91",
       "weight": "85",
       "sport": "Athletics",
       "team": "Turkey",
@@ -3955,7 +3955,7 @@ export default {
     {
       "name": "Kevin Cordes",
       "gender": "M",
-      "height": "196",
+      "height": "1.96",
       "weight": "88",
       "sport": "Swimming",
       "team": "United States",
@@ -3967,7 +3967,7 @@ export default {
     {
       "name": "Tanguy Cosyns",
       "gender": "M",
-      "height": "174",
+      "height": "1.74",
       "weight": "70",
       "sport": "Hockey",
       "team": "Belgium",
@@ -3979,7 +3979,7 @@ export default {
     {
       "name": "Aleksandra Cotti",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "65",
       "sport": "Water Polo",
       "team": "Italy",
@@ -3991,7 +3991,7 @@ export default {
     {
       "name": "DeMarcus Amir Cousins",
       "gender": "M",
-      "height": "210",
+      "height": "2.10",
       "weight": "122",
       "sport": "Basketball",
       "team": "United States",
@@ -4003,7 +4003,7 @@ export default {
     {
       "name": "J'den Michael Tbory Cox",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "86",
       "sport": "Wrestling",
       "team": "United States",
@@ -4015,7 +4015,7 @@ export default {
     {
       "name": "Kameryn Louise \"Kami\" Craig",
       "gender": "F",
-      "height": "181",
+      "height": "1.81",
       "weight": "88",
       "sport": "Water Polo",
       "team": "United States",
@@ -4027,7 +4027,7 @@ export default {
     {
       "name": "Sal Craviotto Rivero",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "98",
       "sport": "Canoeing",
       "team": "Spain",
@@ -4039,7 +4039,7 @@ export default {
     {
       "name": "Sal Craviotto Rivero",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "98",
       "sport": "Canoeing",
       "team": "Spain",
@@ -4051,7 +4051,7 @@ export default {
     {
       "name": "Samuel Thomas \"Sam\" Cross",
       "gender": "M",
-      "height": "191",
+      "height": "1.91",
       "weight": "103",
       "sport": "Rugby Sevens",
       "team": "Great Britain",
@@ -4063,7 +4063,7 @@ export default {
     {
       "name": "Ryan Crouser",
       "gender": "M",
-      "height": "201",
+      "height": "2.01",
       "weight": "125",
       "sport": "Athletics",
       "team": "United States",
@@ -4075,7 +4075,7 @@ export default {
     {
       "name": "Kimberley \"Kim\" Crow-Brennan",
       "gender": "F",
-      "height": "188",
+      "height": "1.88",
       "weight": "74",
       "sport": "Rowing",
       "team": "Australia",
@@ -4087,7 +4087,7 @@ export default {
     {
       "name": "Anna Cruz Lebrato",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "60",
       "sport": "Basketball",
       "team": "Spain",
@@ -4099,7 +4099,7 @@ export default {
     {
       "name": "Aleksandra Crvendaki",
       "gender": "F",
-      "height": "187",
+      "height": "1.87",
       "weight": "76",
       "sport": "Basketball",
       "team": "Serbia",
@@ -4111,7 +4111,7 @@ export default {
     {
       "name": "Lszl Cseh, Jr.",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "83",
       "sport": "Swimming",
       "team": "Hungary",
@@ -4123,7 +4123,7 @@ export default {
     {
       "name": "Tamara Csipes",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "78",
       "sport": "Canoeing",
       "team": "Hungary",
@@ -4135,7 +4135,7 @@ export default {
     {
       "name": "Milo uk",
       "gender": "M",
-      "height": "191",
+      "height": "1.91",
       "weight": "91",
       "sport": "Water Polo",
       "team": "Serbia",
@@ -4147,7 +4147,7 @@ export default {
     {
       "name": "Chay Crista Kerio Cullen",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "74",
       "sport": "Hockey",
       "team": "Great Britain",
@@ -4159,7 +4159,7 @@ export default {
     {
       "name": "Rsul unayev",
       "gender": "M",
-      "height": "171",
+      "height": "1.71",
       "weight": "66",
       "sport": "Wrestling",
       "team": "Azerbaijan",
@@ -4171,7 +4171,7 @@ export default {
     {
       "name": "Michal D'Almeida",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "80",
       "sport": "Cycling",
       "team": "France",
@@ -4183,7 +4183,7 @@ export default {
     {
       "name": "Sabrina D'Angelo",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "71",
       "sport": "Football",
       "team": "Canada",
@@ -4195,7 +4195,7 @@ export default {
     {
       "name": "Mayra Aguiar da Silva",
       "gender": "F",
-      "height": "177",
+      "height": "1.77",
       "weight": "78",
       "sport": "Judo",
       "team": "Brazil",
@@ -4207,7 +4207,7 @@ export default {
     {
       "name": "Rafael Carlos da Silva",
       "gender": "M",
-      "height": "203",
+      "height": "2.03",
       "weight": "160",
       "sport": "Judo",
       "team": "Brazil",
@@ -4219,7 +4219,7 @@ export default {
     {
       "name": "Ana Dabovi",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "70",
       "sport": "Basketball",
       "team": "Serbia",
@@ -4231,7 +4231,7 @@ export default {
     {
       "name": "Milica Dabovi",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "63",
       "sport": "Basketball",
       "team": "Serbia",
@@ -4243,7 +4243,7 @@ export default {
     {
       "name": "Sara Ilonka Dbritz",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "59",
       "sport": "Football",
       "team": "Germany",
@@ -4255,7 +4255,7 @@ export default {
     {
       "name": "Lisa Karolina Viktoria Dahlkvist",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "66",
       "sport": "Football",
       "team": "Sweden",
@@ -4267,7 +4267,7 @@ export default {
     {
       "name": "Ro Masivesi Dakuwaqa",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "105",
       "sport": "Rugby Sevens",
       "team": "Fiji",
@@ -4279,7 +4279,7 @@ export default {
     {
       "name": "Thomas Robert \"Tom\" Daley",
       "gender": "M",
-      "height": "177",
+      "height": "1.77",
       "weight": "74",
       "sport": "Diving",
       "team": "Great Britain",
@@ -4291,7 +4291,7 @@ export default {
     {
       "name": "Francesca Dallap",
       "gender": "F",
-      "height": "163",
+      "height": "1.63",
       "weight": "57",
       "sport": "Diving",
       "team": "Italy",
@@ -4303,7 +4303,7 @@ export default {
     {
       "name": "Chloe Elysha Dalton",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "72",
       "sport": "Rugby Sevens",
       "team": "Australia",
@@ -4315,7 +4315,7 @@ export default {
     {
       "name": "Blandine Dancette",
       "gender": "F",
-      "height": "169",
+      "height": "1.69",
       "weight": "60",
       "sport": "Handball",
       "team": "France",
@@ -4327,7 +4327,7 @@ export default {
     {
       "name": "Emmanuel Shinkut Daniel",
       "gender": "M",
-      "height": "174",
+      "height": "1.74",
       "weight": "88",
       "sport": "Football",
       "team": "Nigeria",
@@ -4339,7 +4339,7 @@ export default {
     {
       "name": "Alexandra Mary L. \"Alex\" Danson",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "56",
       "sport": "Hockey",
       "team": "Great Britain",
@@ -4351,7 +4351,7 @@ export default {
     {
       "name": "Hannah Darling",
       "gender": "F",
-      "height": "174",
+      "height": "1.74",
       "weight": "72",
       "sport": "Rugby Sevens",
       "team": "Canada",
@@ -4363,7 +4363,7 @@ export default {
     {
       "name": "Lisa Darmanin",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "65",
       "sport": "Sailing",
       "team": "Australia",
@@ -4375,7 +4375,7 @@ export default {
     {
       "name": "Tuyana Norpolovna Dashidorzhiyeva",
       "gender": "F",
-      "height": "169",
+      "height": "1.69",
       "weight": "57",
       "sport": "Archery",
       "team": "Russia",
@@ -4387,7 +4387,7 @@ export default {
     {
       "name": "James Davies",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "98",
       "sport": "Rugby Sevens",
       "team": "Great Britain",
@@ -4399,7 +4399,7 @@ export default {
     {
       "name": "Lucy Davis",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "55",
       "sport": "Equestrianism",
       "team": "United States",
@@ -4411,7 +4411,7 @@ export default {
     {
       "name": "Edward James Eddie Dawkins",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "93",
       "sport": "Cycling",
       "team": "New Zealand",
@@ -4423,7 +4423,7 @@ export default {
     {
       "name": "Christine Day",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "51",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -4435,7 +4435,7 @@ export default {
     {
       "name": "Eva Roma Maria de Goede",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "61",
       "sport": "Hockey",
       "team": "Netherlands",
@@ -4447,7 +4447,7 @@ export default {
     {
       "name": "Andre De Grasse",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "70",
       "sport": "Athletics",
       "team": "Canada",
@@ -4459,7 +4459,7 @@ export default {
     {
       "name": "Andre De Grasse",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "70",
       "sport": "Athletics",
       "team": "Canada",
@@ -4471,7 +4471,7 @@ export default {
     {
       "name": "Andre De Grasse",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "70",
       "sport": "Athletics",
       "team": "Canada",
@@ -4483,7 +4483,7 @@ export default {
     {
       "name": "Juan Leon de Jongh",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "87",
       "sport": "Rugby Sevens",
       "team": "South Africa",
@@ -4495,7 +4495,7 @@ export default {
     {
       "name": "Zoe Michaela  de Toledo",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "58",
       "sport": "Rowing",
       "team": "Great Britain",
@@ -4507,7 +4507,7 @@ export default {
     {
       "name": "Xan de Waard",
       "gender": "F",
-      "height": "163",
+      "height": "1.63",
       "weight": "55",
       "sport": "Hockey",
       "team": "Netherlands",
@@ -4519,7 +4519,7 @@ export default {
     {
       "name": "Hlne Defrance",
       "gender": "F",
-      "height": "179",
+      "height": "1.79",
       "weight": "66",
       "sport": "Sailing",
       "team": "France",
@@ -4531,7 +4531,7 @@ export default {
     {
       "name": "Marco Del Lungo",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "97",
       "sport": "Water Polo",
       "team": "Italy",
@@ -4543,7 +4543,7 @@ export default {
     {
       "name": "Juan Martn del Potro",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "97",
       "sport": "Tennis",
       "team": "Argentina",
@@ -4555,7 +4555,7 @@ export default {
     {
       "name": "Elena Delle Donne",
       "gender": "F",
-      "height": "195",
+      "height": "1.95",
       "weight": "86",
       "sport": "Basketball",
       "team": "United States",
@@ -4567,7 +4567,7 @@ export default {
     {
       "name": "Siraba Dembl",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "64",
       "sport": "Handball",
       "team": "France",
@@ -4579,7 +4579,7 @@ export default {
     {
       "name": "Mirela Krasimirova Demireva",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "58",
       "sport": "Athletics",
       "team": "Bulgaria",
@@ -4591,7 +4591,7 @@ export default {
     {
       "name": "Soner Demirta",
       "gender": "M",
-      "height": "170",
+      "height": "1.70",
       "weight": "74",
       "sport": "Wrestling",
       "team": "Turkey",
@@ -4603,7 +4603,7 @@ export default {
     {
       "name": "Nicholas Charles \"Nick\" Dempsey",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "71",
       "sport": "Sailing",
       "team": "Great Britain",
@@ -4615,7 +4615,7 @@ export default {
     {
       "name": "Valentin Demyanenko",
       "gender": "M",
-      "height": "193",
+      "height": "1.93",
       "weight": "93",
       "sport": "Canoeing",
       "team": "Azerbaijan",
@@ -4627,7 +4627,7 @@ export default {
     {
       "name": "Felix Denayer",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "85",
       "sport": "Hockey",
       "team": "Belgium",
@@ -4639,7 +4639,7 @@ export default {
     {
       "name": "Deng Shudi",
       "gender": "M",
-      "height": "163",
+      "height": "1.63",
       "weight": "58",
       "sport": "Gymnastics",
       "team": "China",
@@ -4651,7 +4651,7 @@ export default {
     {
       "name": "Deng Wei",
       "gender": "F",
-      "height": "159",
+      "height": "1.59",
       "weight": "63",
       "sport": "Weightlifting",
       "team": "China",
@@ -4663,7 +4663,7 @@ export default {
     {
       "name": "Aleksey Alekseyevich Denisenko",
       "gender": "M",
-      "height": "185",
+      "height": "1.85",
       "weight": "68",
       "sport": "Taekwondo",
       "team": "Russia",
@@ -4675,7 +4675,7 @@ export default {
     {
       "name": "Inna Vasilyevna Deriglazova",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "61",
       "sport": "Fencing",
       "team": "Russia",
@@ -4687,7 +4687,7 @@ export default {
     {
       "name": "DeMar Darnell DeRozan",
       "gender": "M",
-      "height": "201",
+      "height": "2.01",
       "weight": "99",
       "sport": "Basketball",
       "team": "United States",
@@ -4699,7 +4699,7 @@ export default {
     {
       "name": "Gabriele Detti",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "79",
       "sport": "Swimming",
       "team": "Italy",
@@ -4711,7 +4711,7 @@ export default {
     {
       "name": "Gabriele Detti",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "79",
       "sport": "Swimming",
       "team": "Italy",
@@ -4723,7 +4723,7 @@ export default {
     {
       "name": "Daniel Deuer",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "76",
       "sport": "Equestrianism",
       "team": "Germany",
@@ -4735,7 +4735,7 @@ export default {
     {
       "name": "Jolien D'hoore",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "64",
       "sport": "Cycling",
       "team": "Belgium",
@@ -4747,7 +4747,7 @@ export default {
     {
       "name": "Marco Di Costanzo",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "87",
       "sport": "Rowing",
       "team": "Italy",
@@ -4759,7 +4759,7 @@ export default {
     {
       "name": "Elisa Di Francisca",
       "gender": "F",
-      "height": "177",
+      "height": "1.77",
       "weight": "65",
       "sport": "Fencing",
       "team": "Italy",
@@ -4771,7 +4771,7 @@ export default {
     {
       "name": "Francesco Di Fulvio",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "88",
       "sport": "Water Polo",
       "team": "Italy",
@@ -4783,7 +4783,7 @@ export default {
     {
       "name": "Tania Di Mario",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "62",
       "sport": "Water Polo",
       "team": "Italy",
@@ -4795,7 +4795,7 @@ export default {
     {
       "name": "Emily Jane Diamond",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "58",
       "sport": "Athletics",
       "team": "Great Britain",
@@ -4807,7 +4807,7 @@ export default {
     {
       "name": "Hidilyn Diaz",
       "gender": "F",
-      "height": "149",
+      "height": "1.49",
       "weight": "53",
       "sport": "Weightlifting",
       "team": "Philippines",
@@ -4819,7 +4819,7 @@ export default {
     {
       "name": "Genzebe Dibaba Keneni",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "52",
       "sport": "Athletics",
       "team": "Ethiopia",
@@ -4843,7 +4843,7 @@ export default {
     {
       "name": "Tirunesh Dibaba Keneni",
       "gender": "F",
-      "height": "166",
+      "height": "1.66",
       "weight": "50",
       "sport": "Athletics",
       "team": "Ethiopia",
@@ -4855,7 +4855,7 @@ export default {
     {
       "name": "Aurimas Didbalis",
       "gender": "M",
-      "height": "172",
+      "height": "1.72",
       "weight": "94",
       "sport": "Weightlifting",
       "team": "Lithuania",
@@ -4867,7 +4867,7 @@ export default {
     {
       "name": "Heidi Diethelm Gerber",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "93",
       "sport": "Shooting",
       "team": "Switzerland",
@@ -4879,7 +4879,7 @@ export default {
     {
       "name": "Tina Dietze",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "68",
       "sport": "Canoeing",
       "team": "Germany",
@@ -4891,7 +4891,7 @@ export default {
     {
       "name": "Tina Dietze",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "68",
       "sport": "Canoeing",
       "team": "Germany",
@@ -4903,7 +4903,7 @@ export default {
     {
       "name": "Ding Ning",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "63",
       "sport": "Table Tennis",
       "team": "China",
@@ -4915,7 +4915,7 @@ export default {
     {
       "name": "Ding Ning",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "63",
       "sport": "Table Tennis",
       "team": "China",
@@ -4927,7 +4927,7 @@ export default {
     {
       "name": "Ding Xia",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "67",
       "sport": "Volleyball",
       "team": "China",
@@ -20635,7 +20635,7 @@ export default {
     {
       "name": "Gabriella Timea Szab",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "62",
       "sport": "Canoeing",
       "team": "Hungary",
@@ -20647,7 +20647,7 @@ export default {
     {
       "name": "Gabriella Timea Szab",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "62",
       "sport": "Canoeing",
       "team": "Hungary",
@@ -20659,7 +20659,7 @@ export default {
     {
       "name": "Emese Judit Szsz",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "71",
       "sport": "Fencing",
       "team": "Hungary",
@@ -20671,7 +20671,7 @@ export default {
     {
       "name": "ron Szilgyi",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "78",
       "sport": "Fencing",
       "team": "Hungary",
@@ -20683,7 +20683,7 @@ export default {
     {
       "name": "Chiara Tabani",
       "gender": "F",
-      "height": "176",
+      "height": "1.76",
       "weight": "72",
       "sport": "Water Polo",
       "team": "Italy",
@@ -20695,7 +20695,7 @@ export default {
     {
       "name": "Haruka Tachimoto",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "70",
       "sport": "Judo",
       "team": "Japan",
@@ -20707,7 +20707,7 @@ export default {
     {
       "name": "Kaspar Taimsoo",
       "gender": "M",
-      "height": "194",
+      "height": "1.94",
       "weight": "95",
       "sport": "Rowing",
       "team": "Estonia",
@@ -20719,7 +20719,7 @@ export default {
     {
       "name": "Ayaka Takahashi",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "60",
       "sport": "Badminton",
       "team": "Japan",
@@ -20731,7 +20731,7 @@ export default {
     {
       "name": "Naohisa Takato",
       "gender": "M",
-      "height": "160",
+      "height": "1.60",
       "weight": "60",
       "sport": "Judo",
       "team": "Japan",
@@ -20743,7 +20743,7 @@ export default {
     {
       "name": "Lasha Talakhadze",
       "gender": "M",
-      "height": "197",
+      "height": "1.97",
       "weight": "160",
       "sport": "Weightlifting",
       "team": "Georgia",
@@ -20755,7 +20755,7 @@ export default {
     {
       "name": "Kitione Taliga",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "87",
       "sport": "Rugby Sevens",
       "team": "Fiji",
@@ -20767,7 +20767,7 @@ export default {
     {
       "name": "Jared Tallent",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "58",
       "sport": "Athletics",
       "team": "Australia",
@@ -20779,7 +20779,7 @@ export default {
     {
       "name": "Lachlan Tame",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "80",
       "sport": "Canoeing",
       "team": "Australia",
@@ -20791,7 +20791,7 @@ export default {
     {
       "name": "Tan Jiaxin",
       "gender": "F",
-      "height": "148",
+      "height": "1.48",
       "weight": "36",
       "sport": "Gymnastics",
       "team": "China",
@@ -20803,7 +20803,7 @@ export default {
     {
       "name": "Tan Wee Kiong",
       "gender": "M",
-      "height": "177",
+      "height": "1.77",
       "weight": "77",
       "sport": "Badminton",
       "team": "Malaysia",
@@ -20815,7 +20815,7 @@ export default {
     {
       "name": "Tan Ya-Ting",
       "gender": "F",
-      "height": "158",
+      "height": "1.58",
       "weight": "53",
       "sport": "Archery",
       "team": "Chinese Taipei",
@@ -20827,7 +20827,7 @@ export default {
     {
       "name": "Yusuke Tanaka",
       "gender": "M",
-      "height": "166",
+      "height": "1.66",
       "weight": "58",
       "sport": "Gymnastics",
       "team": "Japan",
@@ -20839,7 +20839,7 @@ export default {
     {
       "name": "Sopita Tanasan",
       "gender": "F",
-      "height": "154",
+      "height": "1.54",
       "weight": "48",
       "sport": "Weightlifting",
       "team": "Thailand",
@@ -20851,7 +20851,7 @@ export default {
     {
       "name": "Melissa Palma Julie Tancredi",
       "gender": "F",
-      "height": "177",
+      "height": "1.77",
       "weight": "73",
       "sport": "Football",
       "team": "Canada",
@@ -20863,7 +20863,7 @@ export default {
     {
       "name": "Tang Mengni",
       "gender": "F",
-      "height": "169",
+      "height": "1.69",
       "weight": "59",
       "sport": "Synchronized Swimming",
       "team": "China",
@@ -20875,7 +20875,7 @@ export default {
     {
       "name": "Paul Kipngetich Tanui",
       "gender": "M",
-      "height": "168",
+      "height": "1.68",
       "weight": "47",
       "sport": "Athletics",
       "team": "Kenya",
@@ -20887,7 +20887,7 @@ export default {
     {
       "name": "Juraj Tarr",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "88",
       "sport": "Canoeing",
       "team": "Slovakia",
@@ -20899,7 +20899,7 @@ export default {
     {
       "name": "Elmurat Zulypkarovich Tasmuradov",
       "gender": "M",
-      "height": "160",
+      "height": "1.60",
       "weight": "59",
       "sport": "Wrestling",
       "team": "Uzbekistan",
@@ -20911,7 +20911,7 @@ export default {
     {
       "name": "Nur Tatar",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "67",
       "sport": "Taekwondo",
       "team": "Turkey",
@@ -20923,7 +20923,7 @@ export default {
     {
       "name": "Anastasiya Alekseyevna Tatareva",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "44",
       "sport": "Rhythmic Gymnastics",
       "team": "Russia",
@@ -20935,7 +20935,7 @@ export default {
     {
       "name": "Diana Lurena Taurasi",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "70",
       "sport": "Basketball",
       "team": "United States",
@@ -20947,7 +20947,7 @@ export default {
     {
       "name": "Christian Taylor",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "81",
       "sport": "Athletics",
       "team": "United States",
@@ -20959,7 +20959,7 @@ export default {
     {
       "name": "Audrey Tcheumo",
       "gender": "F",
-      "height": "177",
+      "height": "1.77",
       "weight": "78",
       "sport": "Judo",
       "team": "France",
@@ -20971,7 +20971,7 @@ export default {
     {
       "name": "Terina Lily Te Tamaki",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "67",
       "sport": "Rugby Sevens",
       "team": "New Zealand",
@@ -20983,7 +20983,7 @@ export default {
     {
       "name": "Laura Teani",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "75",
       "sport": "Water Polo",
       "team": "Italy",
@@ -20995,7 +20995,7 @@ export default {
     {
       "name": "Horia Tecu",
       "gender": "M",
-      "height": "192",
+      "height": "1.92",
       "weight": "90",
       "sport": "Tennis",
       "team": "Romania",
@@ -21007,7 +21007,7 @@ export default {
     {
       "name": "Stefano Tempesti",
       "gender": "M",
-      "height": "205",
+      "height": "2.05",
       "weight": "100",
       "sport": "Water Polo",
       "team": "Italy",
@@ -21019,7 +21019,7 @@ export default {
     {
       "name": "Milo Teodosi",
       "gender": "M",
-      "height": "195",
+      "height": "1.95",
       "weight": "90",
       "sport": "Basketball",
       "team": "Serbia",
@@ -21031,7 +21031,7 @@ export default {
     {
       "name": "Jana Teschke",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "56",
       "sport": "Hockey",
       "team": "Germany",
@@ -21043,7 +21043,7 @@ export default {
     {
       "name": "Brianne Theisen-Eaton",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "64",
       "sport": "Athletics",
       "team": "Canada",
@@ -21055,7 +21055,7 @@ export default {
     {
       "name": "Thiago Maia Alencar",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "64",
       "sport": "Football",
       "team": "Brazil",
@@ -21067,7 +21067,7 @@ export default {
     {
       "name": "Nafissatou \"Nafi\" Thiam",
       "gender": "F",
-      "height": "184",
+      "height": "1.84",
       "weight": "69",
       "sport": "Athletics",
       "team": "Belgium",
@@ -21079,7 +21079,7 @@ export default {
     {
       "name": "Annekatrin Thiele",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "68",
       "sport": "Rowing",
       "team": "Germany",
@@ -21091,7 +21091,7 @@ export default {
     {
       "name": "Courtney Lynn Thompson",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "66",
       "sport": "Volleyball",
       "team": "United States",
@@ -21103,7 +21103,7 @@ export default {
     {
       "name": "Elaine Thompson",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "57",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -21115,7 +21115,7 @@ export default {
     {
       "name": "Elaine Thompson",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "57",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -21127,7 +21127,7 @@ export default {
     {
       "name": "Elaine Thompson",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "57",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -21139,7 +21139,7 @@ export default {
     {
       "name": "Klay Alexander Thompson",
       "gender": "M",
-      "height": "200",
+      "height": "2.00",
       "weight": "97",
       "sport": "Basketball",
       "team": "United States",
@@ -21151,7 +21151,7 @@ export default {
     {
       "name": "Victoria Thornley",
       "gender": "F",
-      "height": "193",
+      "height": "1.93",
       "weight": "76",
       "sport": "Rowing",
       "team": "Great Britain",
@@ -21163,7 +21163,7 @@ export default {
     {
       "name": "Virginia \"Ginny\" Thrasher",
       "gender": "F",
-      "height": "155",
+      "height": "1.55",
       "weight": "55",
       "sport": "Shooting",
       "team": "United States",
@@ -21175,7 +21175,7 @@ export default {
     {
       "name": "Tian Tao",
       "gender": "M",
-      "height": "172",
+      "height": "1.72",
       "weight": "85",
       "sport": "Weightlifting",
       "team": "China",
@@ -21187,7 +21187,7 @@ export default {
     {
       "name": "Ivan Grigoryevich Tikhon",
       "gender": "M",
-      "height": "186",
+      "height": "1.86",
       "weight": "110",
       "sport": "Athletics",
       "team": "Belarus",
@@ -21199,7 +21199,7 @@ export default {
     {
       "name": "Pieter Timmers",
       "gender": "M",
-      "height": "200",
+      "height": "2.00",
       "weight": "89",
       "sport": "Swimming",
       "team": "Belgium",
@@ -21211,7 +21211,7 @@ export default {
     {
       "name": "Anna Viktorovna Timofeyeva",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "86",
       "sport": "Water Polo",
       "team": "Russia",
@@ -21223,7 +21223,7 @@ export default {
     {
       "name": "Amy Tinkler",
       "gender": "F",
-      "height": "152",
+      "height": "1.52",
       "weight": "47",
       "sport": "Gymnastics",
       "team": "Great Britain",
@@ -21235,7 +21235,7 @@ export default {
     {
       "name": "Stuart Brian Tinney",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "71",
       "sport": "Equestrianism",
       "team": "Australia",
@@ -23155,7 +23155,7 @@ export default {
     {
       "name": "Tone Wieten",
       "gender": "M",
-      "height": "201",
+      "height": "2.01",
       "weight": "102",
       "sport": "Rowing",
       "team": "Netherlands",
@@ -23167,7 +23167,7 @@ export default {
     {
       "name": "Bradley Marc Wiggins",
       "gender": "M",
-      "height": "190",
+      "height": "1.90",
       "weight": "82",
       "sport": "Cycling",
       "team": "Great Britain",
@@ -23179,7 +23179,7 @@ export default {
     {
       "name": "Rhian Emilie Wilkinson",
       "gender": "F",
-      "height": "166",
+      "height": "1.66",
       "weight": "66",
       "sport": "Football",
       "team": "Canada",
@@ -23191,7 +23191,7 @@ export default {
     {
       "name": "William de Asevedo Furtado",
       "gender": "M",
-      "height": "176",
+      "height": "1.76",
       "weight": "65",
       "sport": "Football",
       "team": "Brazil",
@@ -23203,7 +23203,7 @@ export default {
     {
       "name": "Charity Williams",
       "gender": "F",
-      "height": "162",
+      "height": "1.62",
       "weight": "68",
       "sport": "Rugby Sevens",
       "team": "Canada",
@@ -23215,7 +23215,7 @@ export default {
     {
       "name": "Christania Williams",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "63",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -23227,7 +23227,7 @@ export default {
     {
       "name": "Michelle Williams (-Toro)",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "67",
       "sport": "Swimming",
       "team": "Canada",
@@ -23239,7 +23239,7 @@ export default {
     {
       "name": "Niall Williams",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "74",
       "sport": "Rugby Sevens",
       "team": "New Zealand",
@@ -23251,7 +23251,7 @@ export default {
     {
       "name": "Sharni Williams",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "79",
       "sport": "Rugby Sevens",
       "team": "Australia",
@@ -23263,7 +23263,7 @@ export default {
     {
       "name": "Venus Ebony Starr Williams",
       "gender": "F",
-      "height": "185",
+      "height": "1.85",
       "weight": "75",
       "sport": "Tennis",
       "team": "United States-1",
@@ -23275,7 +23275,7 @@ export default {
     {
       "name": "Novlene Hilaire Williams-Mills",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "57",
       "sport": "Athletics",
       "team": "Jamaica",
@@ -23287,7 +23287,7 @@ export default {
     {
       "name": "Nicholas Ian \"Nick\" Willis",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "68",
       "sport": "Athletics",
       "team": "New Zealand",
@@ -23299,7 +23299,7 @@ export default {
     {
       "name": "Madison \"Madi\" Wilson",
       "gender": "F",
-      "height": "179",
+      "height": "1.79",
       "weight": "61",
       "sport": "Swimming",
       "team": "Australia",
@@ -23311,7 +23311,7 @@ export default {
     {
       "name": "Madison \"Madi\" Wilson",
       "gender": "F",
-      "height": "179",
+      "height": "1.79",
       "weight": "61",
       "sport": "Swimming",
       "team": "Australia",
@@ -23323,7 +23323,7 @@ export default {
     {
       "name": "Melanie Kate Wilson",
       "gender": "F",
-      "height": "184",
+      "height": "1.84",
       "weight": "75",
       "sport": "Rowing",
       "team": "Great Britain",
@@ -23335,7 +23335,7 @@ export default {
     {
       "name": "Nile Wilson",
       "gender": "M",
-      "height": "166",
+      "height": "1.66",
       "weight": "60",
       "sport": "Gymnastics",
       "team": "Great Britain",
@@ -23347,7 +23347,7 @@ export default {
     {
       "name": "Spencer James W. Wilton",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "83",
       "sport": "Equestrianism",
       "team": "Great Britain",
@@ -23359,7 +23359,7 @@ export default {
     {
       "name": "Kasper Winther Jrgensen",
       "gender": "M",
-      "height": "182",
+      "height": "1.82",
       "weight": "73",
       "sport": "Rowing",
       "team": "Denmark",
@@ -23371,7 +23371,7 @@ export default {
     {
       "name": "Anita Wodarczyk",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "95",
       "sport": "Athletics",
       "team": "Poland",
@@ -23383,7 +23383,7 @@ export default {
     {
       "name": "Maja Martyna Woszczowska",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "54",
       "sport": "Cycling",
       "team": "Poland",
@@ -23395,7 +23395,7 @@ export default {
     {
       "name": "Andreas Wolff",
       "gender": "M",
-      "height": "198",
+      "height": "1.98",
       "weight": "110",
       "sport": "Handball",
       "team": "Germany",
@@ -23407,7 +23407,7 @@ export default {
     {
       "name": "Panipak Wongpattanakit",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "49",
       "sport": "Taekwondo",
       "team": "Thailand",
@@ -23419,7 +23419,7 @@ export default {
     {
       "name": "Portia Woodman",
       "gender": "F",
-      "height": "169",
+      "height": "1.69",
       "weight": "74",
       "sport": "Rugby Sevens",
       "team": "New Zealand",
@@ -23431,7 +23431,7 @@ export default {
     {
       "name": "Kelsi Worrell",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "75",
       "sport": "Swimming",
       "team": "United States",
@@ -23443,7 +23443,7 @@ export default {
     {
       "name": "Taylor Worth",
       "gender": "M",
-      "height": "174",
+      "height": "1.74",
       "weight": "60",
       "sport": "Archery",
       "team": "Australia",
@@ -23455,7 +23455,7 @@ export default {
     {
       "name": "Dagmara Wozniak (Woniak-)",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "81",
       "sport": "Fencing",
       "team": "United States",
@@ -23467,7 +23467,7 @@ export default {
     {
       "name": "Felipe Almeida Wu",
       "gender": "M",
-      "height": "169",
+      "height": "1.69",
       "weight": "69",
       "sport": "Shooting",
       "team": "Brazil",
@@ -23479,7 +23479,7 @@ export default {
     {
       "name": "Wu Minxia",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "52",
       "sport": "Diving",
       "team": "China",
@@ -23491,7 +23491,7 @@ export default {
     {
       "name": "Marta Xargay Casademont",
       "gender": "F",
-      "height": "180",
+      "height": "1.80",
       "weight": "71",
       "sport": "Basketball",
       "team": "Spain",
@@ -23503,7 +23503,7 @@ export default {
     {
       "name": "Xiang Yanmei",
       "gender": "F",
-      "height": "163",
+      "height": "1.63",
       "weight": "69",
       "sport": "Weightlifting",
       "team": "China",
@@ -23515,7 +23515,7 @@ export default {
     {
       "name": "Xu Anqi",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "76",
       "sport": "Fencing",
       "team": "China",
@@ -23527,7 +23527,7 @@ export default {
     {
       "name": "Xu Jiayu",
       "gender": "M",
-      "height": "187",
+      "height": "1.87",
       "weight": "78",
       "sport": "Swimming",
       "team": "China",
@@ -23539,7 +23539,7 @@ export default {
     {
       "name": "Xu Xin",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "67",
       "sport": "Table Tennis",
       "team": "China",
@@ -23551,7 +23551,7 @@ export default {
     {
       "name": "Xu Yunli",
       "gender": "F",
-      "height": "195",
+      "height": "1.95",
       "weight": "75",
       "sport": "Volleyball",
       "team": "China",
@@ -23563,7 +23563,7 @@ export default {
     {
       "name": "Kanae Yamabe",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "108",
       "sport": "Judo",
       "team": "Japan",
@@ -23575,7 +23575,7 @@ export default {
     {
       "name": "Ryota Yamagata",
       "gender": "M",
-      "height": "177",
+      "height": "1.77",
       "weight": "70",
       "sport": "Athletics",
       "team": "Japan",
@@ -23587,7 +23587,7 @@ export default {
     {
       "name": "Koji Yamamuro",
       "gender": "M",
-      "height": "159",
+      "height": "1.59",
       "weight": "58",
       "sport": "Gymnastics",
       "team": "Japan",
@@ -23599,7 +23599,7 @@ export default {
     {
       "name": "Yan Ni",
       "gender": "F",
-      "height": "192",
+      "height": "1.92",
       "weight": "74",
       "sport": "Volleyball",
       "team": "China",
@@ -23611,7 +23611,7 @@ export default {
     {
       "name": "Dmytro Mykolaiovych Yanchuk",
       "gender": "M",
-      "height": "184",
+      "height": "1.84",
       "weight": "75",
       "sport": "Canoeing",
       "team": "Ukraine",
@@ -23623,7 +23623,7 @@ export default {
     {
       "name": "Yang Fangxu",
       "gender": "F",
-      "height": "190",
+      "height": "1.90",
       "weight": "71",
       "sport": "Volleyball",
       "team": "China",
@@ -23635,7 +23635,7 @@ export default {
     {
       "name": "Elitsa Atanasova Yankova",
       "gender": "F",
-      "height": "151",
+      "height": "1.51",
       "weight": "48",
       "sport": "Wrestling",
       "team": "Bulgaria",
@@ -23647,7 +23647,7 @@ export default {
     {
       "name": "Selim Yaar",
       "gender": "M",
-      "height": "179",
+      "height": "1.79",
       "weight": "86",
       "sport": "Wrestling",
       "team": "Turkey",
@@ -23659,7 +23659,7 @@ export default {
     {
       "name": "Hassan Aliazam Yazdanicharati",
       "gender": "M",
-      "height": "181",
+      "height": "1.81",
       "weight": "74",
       "sport": "Wrestling",
       "team": "Iran",
@@ -23671,7 +23671,7 @@ export default {
     {
       "name": "Yuliya Andreyevna Yefimova",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "64",
       "sport": "Swimming",
       "team": "Russia",
@@ -23683,7 +23683,7 @@ export default {
     {
       "name": "Yuliya Andreyevna Yefimova",
       "gender": "F",
-      "height": "178",
+      "height": "1.78",
       "weight": "64",
       "sport": "Swimming",
       "team": "Russia",
@@ -23695,7 +23695,7 @@ export default {
     {
       "name": "Julius Kiplagat Yego",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "94",
       "sport": "Athletics",
       "team": "Kenya",
@@ -23707,7 +23707,7 @@ export default {
     {
       "name": "Yana Karapetovna Yegoryan",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "64",
       "sport": "Fencing",
       "team": "Russia",
@@ -23719,7 +23719,7 @@ export default {
     {
       "name": "Yana Karapetovna Yegoryan",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "64",
       "sport": "Fencing",
       "team": "Russia",
@@ -23731,7 +23731,7 @@ export default {
     {
       "name": "Daniyar Maratovich Yeleusinov",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "64",
       "sport": "Boxing",
       "team": "Kazakhstan",
@@ -23743,7 +23743,7 @@ export default {
     {
       "name": "Tatyana Vladimirova Yerokhina",
       "gender": "F",
-      "height": "185",
+      "height": "1.85",
       "weight": "73",
       "sport": "Handball",
       "team": "Russia",
@@ -23755,7 +23755,7 @@ export default {
     {
       "name": "Yi Siling",
       "gender": "F",
-      "height": "165",
+      "height": "1.65",
       "weight": "51",
       "sport": "Shooting",
       "team": "China",
@@ -23767,7 +23767,7 @@ export default {
     {
       "name": "Yin Chengxin",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "58",
       "sport": "Synchronized Swimming",
       "team": "China",
@@ -23779,7 +23779,7 @@ export default {
     {
       "name": "Yin Junhua",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "60",
       "sport": "Boxing",
       "team": "China",
@@ -23791,7 +23791,7 @@ export default {
     {
       "name": "Tony Victor James Yoka",
       "gender": "M",
-      "height": "200",
+      "height": "2.00",
       "weight": "105",
       "sport": "Boxing",
       "team": "France",
@@ -23803,7 +23803,7 @@ export default {
     {
       "name": "Yoon Jin-Hee",
       "gender": "F",
-      "height": "158",
+      "height": "1.58",
       "weight": "53",
       "sport": "Weightlifting",
       "team": "South Korea",
@@ -23815,7 +23815,7 @@ export default {
     {
       "name": "Kurumi Yoshida",
       "gender": "F",
-      "height": "167",
+      "height": "1.67",
       "weight": "57",
       "sport": "Synchronized Swimming",
       "team": "Japan",
@@ -23827,7 +23827,7 @@ export default {
     {
       "name": "Saori Yoshida",
       "gender": "F",
-      "height": "157",
+      "height": "1.57",
       "weight": "55",
       "sport": "Wrestling",
       "team": "Japan",
@@ -23839,7 +23839,7 @@ export default {
     {
       "name": "Maharu Yoshimura",
       "gender": "M",
-      "height": "177",
+      "height": "1.77",
       "weight": "61",
       "sport": "Table Tennis",
       "team": "Japan",
@@ -23851,7 +23851,7 @@ export default {
     {
       "name": "You Hao",
       "gender": "M",
-      "height": "162",
+      "height": "1.62",
       "weight": "60",
       "sport": "Gymnastics",
       "team": "China",
@@ -23863,7 +23863,7 @@ export default {
     {
       "name": "Yu Song",
       "gender": "F",
-      "height": "182",
+      "height": "1.82",
       "weight": "128",
       "sport": "Judo",
       "team": "China",
@@ -23875,7 +23875,7 @@ export default {
     {
       "name": "Yuan Xinyue",
       "gender": "F",
-      "height": "201",
+      "height": "2.01",
       "weight": "78",
       "sport": "Volleyball",
       "team": "China",
@@ -23887,7 +23887,7 @@ export default {
     {
       "name": "Grce Zaadi Deuna",
       "gender": "F",
-      "height": "171",
+      "height": "1.71",
       "weight": "66",
       "sport": "Handball",
       "team": "France",
@@ -23899,7 +23899,7 @@ export default {
     {
       "name": "Olga Sergeyevna Zabelinskaya (Sukhoruchenkova-)",
       "gender": "F",
-      "height": "175",
+      "height": "1.75",
       "weight": "61",
       "sport": "Cycling",
       "team": "Russia",
@@ -23911,7 +23911,7 @@ export default {
     {
       "name": "Shelina Laura Zadorsky",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "67",
       "sport": "Football",
       "team": "Canada",
@@ -23923,7 +23923,7 @@ export default {
     {
       "name": "Mariel Leigh Zagunis",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "72",
       "sport": "Fencing",
       "team": "United States",
@@ -23935,7 +23935,7 @@ export default {
     {
       "name": "Thomas Zajac",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "77",
       "sport": "Sailing",
       "team": "Austria",
@@ -23947,7 +23947,7 @@ export default {
     {
       "name": "Arthur Nabarrete Zanetti",
       "gender": "M",
-      "height": "156",
+      "height": "1.56",
       "weight": "61",
       "sport": "Gymnastics",
       "team": "Brazil",
@@ -23959,7 +23959,7 @@ export default {
     {
       "name": "Aleksandr Sergeyevich Zaychikov",
       "gender": "M",
-      "height": "180",
+      "height": "1.80",
       "weight": "105",
       "sport": "Weightlifting",
       "team": "Kazakhstan",
@@ -23971,7 +23971,7 @@ export default {
     {
       "name": "Ivan Zaytsev",
       "gender": "M",
-      "height": "204",
+      "height": "2.04",
       "weight": "100",
       "sport": "Volleyball",
       "team": "Italy",
@@ -23983,7 +23983,7 @@ export default {
     {
       "name": "Vasilij bogar",
       "gender": "M",
-      "height": "189",
+      "height": "1.89",
       "weight": "98",
       "sport": "Sailing",
       "team": "Slovenia",
@@ -23995,7 +23995,7 @@ export default {
     {
       "name": "Jos Carlos Cracco Neto",
       "gender": "M",
-      "height": "170",
+      "height": "1.70",
       "weight": "69",
       "sport": "Football",
       "team": "Brazil",
@@ -24007,7 +24007,7 @@ export default {
     {
       "name": "Zeng Zhen",
       "gender": "F",
-      "height": "170",
+      "height": "1.70",
       "weight": "61",
       "sport": "Synchronized Swimming",
       "team": "China",
@@ -24019,7 +24019,7 @@ export default {
     {
       "name": "Zhang Binbin",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "55",
       "sport": "Shooting",
       "team": "China",
@@ -24031,7 +24031,7 @@ export default {
     {
       "name": "Zhang Changning",
       "gender": "F",
-      "height": "193",
+      "height": "1.93",
       "weight": "79",
       "sport": "Volleyball",
       "team": "China",
@@ -24043,7 +24043,7 @@ export default {
     {
       "name": "Zhang Chenglong",
       "gender": "M",
-      "height": "173",
+      "height": "1.73",
       "weight": "65",
       "sport": "Gymnastics",
       "team": "China",
@@ -24055,7 +24055,7 @@ export default {
     {
       "name": "Zhang Fengliu",
       "gender": "F",
-      "height": "172",
+      "height": "1.72",
       "weight": "77",
       "sport": "Wrestling",
       "team": "China",
@@ -24067,7 +24067,7 @@ export default {
     {
       "name": "Zhang Jike",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "70",
       "sport": "Table Tennis",
       "team": "China",
@@ -24079,7 +24079,7 @@ export default {
     {
       "name": "Zhang Jike",
       "gender": "M",
-      "height": "178",
+      "height": "1.78",
       "weight": "70",
       "sport": "Table Tennis",
       "team": "China",
@@ -24091,7 +24091,7 @@ export default {
     {
       "name": "Zhang Mengxue",
       "gender": "F",
-      "height": "162",
+      "height": "1.62",
       "weight": "70",
       "sport": "Shooting",
       "team": "China",
@@ -24103,7 +24103,7 @@ export default {
     {
       "name": "Zhang Nan",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "75",
       "sport": "Badminton",
       "team": "China-1",
@@ -24115,7 +24115,7 @@ export default {
     {
       "name": "Zhang Nan",
       "gender": "M",
-      "height": "183",
+      "height": "1.83",
       "weight": "75",
       "sport": "Badminton",
       "team": "China-1",
@@ -24127,7 +24127,7 @@ export default {
     {
       "name": "Zhang Wenxiu",
       "gender": "F",
-      "height": "183",
+      "height": "1.83",
       "weight": "105",
       "sport": "Athletics",
       "team": "China",
@@ -24139,7 +24139,7 @@ export default {
     {
       "name": "Zhao Shuai",
       "gender": "M",
-      "height": "188",
+      "height": "1.88",
       "weight": "63",
       "sport": "Taekwondo",
       "team": "China",
@@ -24151,7 +24151,7 @@ export default {
     {
       "name": "Zhao Yunlei",
       "gender": "F",
-      "height": "173",
+      "height": "1.73",
       "weight": "60",
       "sport": "Badminton",
       "team": "China-1",
@@ -24163,7 +24163,7 @@ export default {
     {
       "name": "Zhazira Abdrakhmanovna Zhapparkul",
       "gender": "F",
-      "height": "155",
+      "height": "1.55",
       "weight": "69",
       "sport": "Weightlifting",
       "team": "Kazakhstan",
@@ -24175,7 +24175,7 @@ export default {
     {
       "name": "Zheng Shuyin",
       "gender": "F",
-      "height": "188",
+      "height": "1.88",
       "weight": "75",
       "sport": "Taekwondo",
       "team": "China",
@@ -24187,7 +24187,7 @@ export default {
     {
       "name": "Viktoriya Yuryevna Zhilinskayte",
       "gender": "F",
-      "height": "188",
+      "height": "1.88",
       "weight": "80",
       "sport": "Handball",
       "team": "Russia",
@@ -24199,7 +24199,7 @@ export default {
     {
       "name": "Valeriya Sergeyevna Zholobova-Koblova",
       "gender": "F",
-      "height": "164",
+      "height": "1.64",
       "weight": "58",
       "sport": "Wrestling",
       "team": "Russia",
@@ -24211,7 +24211,7 @@ export default {
     {
       "name": "Zhong Tianshi",
       "gender": "F",
-      "height": "168",
+      "height": "1.68",
       "weight": "62",
       "sport": "Cycling",
       "team": "China",
@@ -24223,7 +24223,7 @@ export default {
     {
       "name": "Zhu Ting",
       "gender": "F",
-      "height": "198",
+      "height": "1.98",
       "weight": "78",
       "sport": "Volleyball",
       "team": "China",
@@ -24235,7 +24235,7 @@ export default {
     {
       "name": "Bojana ivkovi",
       "gender": "F",
-      "height": "186",
+      "height": "1.86",
       "weight": "72",
       "sport": "Volleyball",
       "team": "Serbia",
@@ -24247,7 +24247,7 @@ export default {
     {
       "name": "Shakhobiddin Shokirovich Zoirov",
       "gender": "M",
-      "height": "169",
+      "height": "1.69",
       "weight": "52",
       "sport": "Boxing",
       "team": "Uzbekistan",
@@ -24259,7 +24259,7 @@ export default {
     {
       "name": "Milenko Zori",
       "gender": "M",
-      "height": "179",
+      "height": "1.79",
       "weight": "73",
       "sport": "Canoeing",
       "team": "Serbia",
@@ -24271,7 +24271,7 @@ export default {
     {
       "name": "Martin Zwicker",
       "gender": "M",
-      "height": "175",
+      "height": "1.75",
       "weight": "64",
       "sport": "Hockey",
       "team": "Germany",
