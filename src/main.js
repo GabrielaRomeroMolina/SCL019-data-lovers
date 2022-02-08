@@ -26,6 +26,8 @@ function agregarElementos(dataAthlete){
      lista.innerHTML=""
     dataAthlete.forEach(function(item){
 
+      
+
     let divCard= document.createElement("div");    
     divCard.classList.add("card");
 
@@ -34,7 +36,7 @@ function agregarElementos(dataAthlete){
 
     let divFront= document.createElement("div");
         divFront.classList.add("front");
-    let contentFront= document.createElement("p");
+    /*let contentFront= document.createElement("p");*/
     let contenidoFront = document.createTextNode(item.name);
     
     let divBack= document.createElement("div")
@@ -46,8 +48,8 @@ function agregarElementos(dataAthlete){
         divCard.appendChild(divContent);
         
         divContent.appendChild(divFront);
-        divFront.appendChild(contentFront);
-        contentFront.appendChild(contenidoFront);
+        divFront.appendChild(contenidoFront);
+        //contentFront.appendChild(contenidoFront);
 
         divContent.appendChild(divBack);
         divBack.appendChild(contentBack);
