@@ -1,31 +1,33 @@
 
 
-
+import {filtroDeportes, filtroMedallas, filtroPaises} from './data.js';
 import data from './data/athletes/athletes.js';
 
 
 //se crea una constante que llama la data de atletas
 const dataAthlete = data.athletes
 
-//se hace un ciclo de lectura de data para poder extraer contenido
+/*se hace un ciclo de lectura de data para poder extraer contenido
 for (let i=0; i<dataAthlete.length; i++){
   console.log(dataAthlete[i].name);
   console.log(dataAthlete[i].sport);
   console.log(dataAthlete[i].medal);
  
-};
+};*/
 
 //------------------------------visualizacion en pagina de data-------------------
 
-/*window.onload = () => {
+window.onload = () => {
   agregarElementos(dataAthlete)
-}*/
+}
 
+function agregarElementos(dataAthlete){
     let lista=document.getElementById("root");
+     lista.innerHTML=""
     dataAthlete.forEach(function(item){
 
     let divCard= document.createElement("div");    
-        divCard.classList.add("card");
+    divCard.classList.add("card");
 
     let divContent=document.createElement("div");
         divContent.classList.add("content");
@@ -51,7 +53,7 @@ for (let i=0; i<dataAthlete.length; i++){
         divBack.appendChild(contentBack);
         contentBack.appendChild(contenidoBack);
     })
-    
+  }
 
 
 //--------------lista desplegable select-----------------
@@ -64,6 +66,9 @@ const listaPaisesRepetidos = dataAthlete.map((paises) => paises.team);
 //constante que se va a usar en la seleccion de pais ,  hace filtrado de paises por key, posicion y array, donde tomara el indice de cada key dentro del array (solo de pais por la variable anterior)sin repetirse
 const listaPaises = listaPaisesRepetidos.filter((elemento, indice, array) =>
   array.indexOf(elemento) === indice);
+  
+ 
+ 
 
 //creacion de lista que se va a agregar en el DIV PAISES de html
 const selectPais = document.querySelector('#paises');
@@ -81,9 +86,19 @@ const selectPais = document.querySelector('#paises');
     selectPais.appendChild(opcion);
 
   });
-})();
+}
+)();
 
-  
+ //filtro segun país e imprimir en HTML
+
+ selectPais.addEventListener('change',()=>{
+     var selecccionPais = selectPais.options[selectPais.selectedIndex].value;
+     let paisFiltrado = filtroPaises(dataAthlete,selecccionPais)
+     agregarElementos(paisFiltrado)
+
+ })
+
+
 // Lista de deportes en select desplegable
 
 const listaDeportesRepetidos = dataAthlete.map((deportes) => deportes.sport);
@@ -100,23 +115,13 @@ const selectDeporte = document.querySelector('#deporte');
   });
 })();
 
+selectDeporte.addEventListener('change',()=>{
+  var selecccionDeporte = selectDeporte.options[selectDeporte.selectedIndex].value;
+  let filtradoDeporte = filtroDeportes(dataAthlete,selecccionDeporte)
+  agregarElementos(filtradoDeporte)
 
+})
 
-// Lista de generos en select desplegable
-
-const listaGenerosRepetidos = dataAthlete.map((generos) => generos.gender);
-const listaGeneros = listaGenerosRepetidos.filter((elemento, indice, array) =>
-  array.indexOf(elemento) === indice);
-const selectGenero = document.querySelector('#generos');
-(() => {
-  const generosOrdenados = listaGeneros.sort();
-  generosOrdenados.forEach((genero) => {
-    const opcion = document.createElement('option');
-    opcion.textContent = genero;
-    opcion.setAttribute('value', genero);
-    selectGenero.appendChild(opcion);
-  });
-})();
 
 // Lista de medallas en select desplegable
 const listaMedallasRepetidas = dataAthlete.map((medallas) => medallas.medal);
@@ -133,6 +138,15 @@ const selectMedalla = document.querySelector('#medallas');
   });
 })();
 
+
+selectMedalla.addEventListener('change',()=>{
+  var selecccionMedalla = selectMedalla.options[selectMedalla.selectedIndex].value;
+  let filtradoMedallas = filtroMedallas(dataAthlete,selecccionMedalla)
+  agregarElementos(filtradoMedallas)
+
+})
+
+  
 
 
 //--------------- FUNCIONAMIENTO DE MODAL DE BANNER---------------
