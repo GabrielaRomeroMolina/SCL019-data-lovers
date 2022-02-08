@@ -38,7 +38,7 @@ for (let i=0; i<dataAthlete.length; i++){
     let divBack= document.createElement("div")
         divBack.classList.add("back");
     let contentBack= document.createElement("p");
-    let contenidoBack = document.createTextNode(item.team + " " + item.age+ " " + item.height);
+    let contenidoBack = document.createTextNode(`Pais : ${item.team} Edad : ${item.age} Estatura : ${item.height} Peso : ${item.weight} Deporte : ${item.sport} `);
     
         lista.appendChild(divCard);
         divCard.appendChild(divContent);
