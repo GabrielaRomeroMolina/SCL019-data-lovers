@@ -133,9 +133,8 @@ select {
   margin-right: 36px;
   background-color: rgb(159, 186, 216);
   padding: 5px;
-  margin: 10px;
+  margin: 27px;
   border-radius: 5px;
-
   /*float: left;
   top: 50%;
   left: 50%;
@@ -147,8 +146,7 @@ select {
   width: 100%;
   height: 30%; 
   padding: 10%;
-  box-shadow: 0 0 15px rgba(31, 175, 38, 0.1);
-  transition: transform 1s;
+  transition: transform 0.8s;
   transform-style: preserve-3d;
   margin-top: 10%;
 }
@@ -163,20 +161,20 @@ p{
 }
 .front,
 .back {
-  background: rgb(159, 186, 216);
+  
   color: #faf4f4;
   width: 100%;
   text-align: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 25px;
   border-radius: 5px;
-  margin-top: -40px;
   backface-visibility: hidden;
 }
 
+
 .back {
   width: 100%;
-  background: rgb(159, 186, 216);
+  background: rgb(82, 165, 96);
   color: #faf4f4;
   transform: rotateY( 180deg );
 }
