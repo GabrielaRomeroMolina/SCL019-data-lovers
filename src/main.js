@@ -31,8 +31,8 @@ for (let i=0; i<dataAthlete.length; i++){
         divContent.classList.add("content");
 
     let divFront= document.createElement("div");
-        divFront.classList.add("front");
-    let contentFront= document.createElement("p");
+        divFront.classList.add("front"); 
+    /*let contentFront= document.createElement("p");*/
     let contenidoFront = document.createTextNode(item.name);
     
     let divBack= document.createElement("div")
@@ -44,8 +44,8 @@ for (let i=0; i<dataAthlete.length; i++){
         divCard.appendChild(divContent);
         
         divContent.appendChild(divFront);
-        divFront.appendChild(contentFront);
-        contentFront.appendChild(contenidoFront);
+        divFront.appendChild(contenidoFront);
+        /*contentFront.appendChild(contenidoFront);*/
 
         divContent.appendChild(divBack);
         divBack.appendChild(contentBack);
