@@ -128,13 +128,14 @@ select {
 .card{
   display: flex;
   width: 300px;
-  height: 200px;
+  height: 300px;
   margin-left: 36px;
   margin-right: 36px;
   background-color: rgb(159, 186, 216);
   padding: 5px;
   margin: 10px;
   border-radius: 5px;
+
   /*float: left;
   top: 50%;
   left: 50%;
@@ -149,6 +150,7 @@ select {
   box-shadow: 0 0 15px rgba(31, 175, 38, 0.1);
   transition: transform 1s;
   transform-style: preserve-3d;
+  margin-top: 10%;
 }
 
 
@@ -156,7 +158,9 @@ select {
   transform: rotateY( 180deg ) ;
   transition: transform 0.5s;
 }
-
+p{
+  margin-top: -20px;
+}
 .front,
 .back {
   background: rgb(159, 186, 216);
