@@ -1,11 +1,12 @@
 
 
-import {filtroDeportes, filtroMedallas, filtroPaises} from './data.js';
+import {filtroDeportes, filtroGenero, filtroMedallas, filtroPaises} from './data.js';
 import data from './data/athletes/athletes.js';
 
 
 //se crea una constante que llama la data de atletas
 const dataAthlete = data.athletes
+let filterData = dataAthlete
 
 /*se hace un ciclo de lectura de data para poder extraer contenido
 for (let i=0; i<dataAthlete.length; i++){
@@ -63,7 +64,7 @@ function agregarElementos(dataAthlete){
 // Lista de países en select desplegable
 
 //constante que se va a usar para realizar el filtrado, hace recorrido de data atletas y trae el nombre de pais
-const listaPaisesRepetidos = dataAthlete.map((paises) => paises.team);
+const listaPaisesRepetidos = filterData.map((paises) => paises.team);
 
 //constante que se va a usar en la seleccion de pais ,  hace filtrado de paises por key, posicion y array, donde tomara el indice de cada key dentro del array (solo de pais por la variable anterior)sin repetirse
 const listaPaises = listaPaisesRepetidos.filter((elemento, indice, array) =>
@@ -95,7 +96,8 @@ const selectPais = document.querySelector('#paises');
 
  selectPais.addEventListener('change',()=>{
      var selecccionPais = selectPais.options[selectPais.selectedIndex].value;
-     let paisFiltrado = filtroPaises(dataAthlete,selecccionPais)
+     let paisFiltrado = filtroPaises(filterData,selecccionPais)
+     filterData=paisFiltrado
      agregarElementos(paisFiltrado)
 
  })
@@ -103,7 +105,7 @@ const selectPais = document.querySelector('#paises');
 
 // Lista de deportes en select desplegable
 
-const listaDeportesRepetidos = dataAthlete.map((deportes) => deportes.sport);
+const listaDeportesRepetidos = filterData.map((deportes) => deportes.sport);
 const listaDeportes = listaDeportesRepetidos.filter((elemento, indice, array) =>
   array.indexOf(elemento) === indice);
 const selectDeporte = document.querySelector('#deporte');
@@ -119,14 +121,15 @@ const selectDeporte = document.querySelector('#deporte');
 
 selectDeporte.addEventListener('change',()=>{
   var selecccionDeporte = selectDeporte.options[selectDeporte.selectedIndex].value;
-  let filtradoDeporte = filtroDeportes(dataAthlete,selecccionDeporte)
+  let filtradoDeporte = filtroDeportes(filterData,selecccionDeporte)
+  filterData=filtradoDeporte
   agregarElementos(filtradoDeporte)
 
 })
 
 
 // Lista de medallas en select desplegable
-const listaMedallasRepetidas = dataAthlete.map((medallas) => medallas.medal);
+const listaMedallasRepetidas = filterData.map((medallas) => medallas.medal);
 const listaMedallas = listaMedallasRepetidas.filter((elemento, indice, array) =>
   array.indexOf(elemento) === indice);
 const selectMedalla = document.querySelector('#medallas');
@@ -143,17 +146,47 @@ const selectMedalla = document.querySelector('#medallas');
 
 selectMedalla.addEventListener('change',()=>{
   var selecccionMedalla = selectMedalla.options[selectMedalla.selectedIndex].value;
-  let filtradoMedallas = filtroMedallas(dataAthlete,selecccionMedalla)
+  let filtradoMedallas = filtroMedallas(filterData,selecccionMedalla)
+  filterData=filtradoMedallas
+  // if si  
+  // else filterData
   agregarElementos(filtradoMedallas)
 
 })
 
   
+// Lista de genero en select desplegable
+
+const listaGenerosRepetidos = filterData.map((generos) => generos.gender);
+const listaGeneros = listaGenerosRepetidos.filter((elemento, indice, array) =>
+  array.indexOf(elemento) === indice);
+const selectGenero = document.querySelector('#genero');
+(() => {
+  const generosOrdenados = listaGeneros.sort();
+  generosOrdenados.forEach((genero) => {
+    const opcion = document.createElement('option');
+    opcion.textContent = genero;
+    opcion.setAttribute('value', genero);
+    selectGenero.appendChild(opcion);
+  });
+})();
+
+selectGenero.addEventListener('change',()=>{
+  var selecccionGenero = selectGenero.options[selectGenero.selectedIndex].value;
+  let filtradoGenero = filtroGenero(filterData,selecccionGenero)
+  filterData=filtradoGenero
+  agregarElementos(filtradoGenero)
+
+})
+
+
+
+
 
 
 //--------------- FUNCIONAMIENTO DE MODAL DE BANNER---------------
-const names = dataAthlete.map(item=>item.name);
-console.log(names);
+// const names = dataAthlete.map(item=>item.name);
+// console.log(names);
 
     // traer el modal 
 let modal = document.getElementById("modalBanner");
