@@ -1,3 +1,6 @@
+.container{
+  display: flex;
+}
 #header {
   
   background-image: url('../imagen/banner_rio_olimpiadas.jpg');
@@ -30,6 +33,7 @@
 }
 
 #botonModal:hover {
+  display: flex;
   background-color:rgb(20, 72, 133);
   color: white;
 }    
@@ -51,6 +55,7 @@
 
 /* contenido de modal*/
 .modal-contenido {
+  display: flex;
   background-color: #fefefe;
   margin: 10% auto; /* margen ubicacion */
   padding: 20px;
@@ -127,20 +132,36 @@ select {
 }
 .card{
   display: flex;
-  width: 300px;
-  height: 300px;
-  margin-left: 36px;
-  margin-right: 36px;
-  background-color: rgb(159, 186, 216);
+  width: 260px;
+  height: 280px;
+  /* margin-left: 50px;
+  margin-right: 50px; */
+  background-color: rgb(82, 165, 96);
   padding: 5px;
   margin: 27px;
   border-radius: 5px;
+  box-shadow: 0 25px 15px rgb(0 0 0 / 50%);
   /*float: left;
   top: 50%;
   left: 50%;
   perspective: 500px;*/
 }
-
+.card{
+  display: flex;
+  width: 300px;
+  height: 300px;
+  /* margin-left: 50px;
+  margin-right: 50px; */
+  background-color: rgb(82, 165, 96);
+  padding: 5px;
+  margin: 27px;
+  border-radius: 5px;
+  box-shadow: 0 25px 15px rgb(0 0 0 / 50%);
+  /*float: left;
+  top: 50%;
+  left: 50%;
+  perspective: 500px;*/
+}
 .content {
   /* position: absolute;*/
   width: 100%;
@@ -157,7 +178,7 @@ select {
   transition: transform 0.5s;
 }
 p{
-  margin-top: -20px;
+  margin-top: -50px;
 }
 .front,
 .back {

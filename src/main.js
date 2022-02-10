@@ -95,7 +95,7 @@ const selectPais = document.querySelector('#paises');
  //filtro segun país e imprimir en HTML
 
  selectPais.addEventListener('change',()=>{
-     var selecccionPais = selectPais.options[selectPais.selectedIndex].value;
+     let selecccionPais = selectPais.options[selectPais.selectedIndex].value;
      let paisFiltrado = filtroPaises(filterData,selecccionPais)
      filterData=paisFiltrado
      agregarElementos(paisFiltrado)
