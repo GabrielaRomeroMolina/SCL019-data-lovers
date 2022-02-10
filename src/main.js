@@ -18,6 +18,8 @@ for (let i=0; i<dataAthlete.length; i++){
 
 //------------------------------visualizacion en pagina de data-------------------
 
+
+
 window.onload = () => {
   agregarElementos(dataAthlete)
 }
@@ -27,7 +29,6 @@ function agregarElementos(dataAthlete){
      lista.innerHTML=""
     dataAthlete.forEach(function(item){
 
-      
 
     let divCard= document.createElement("div");    
     divCard.classList.add("card");
@@ -120,7 +121,7 @@ const selectDeporte = document.querySelector('#deporte');
 })();
 
 selectDeporte.addEventListener('change',()=>{
-  var selecccionDeporte = selectDeporte.options[selectDeporte.selectedIndex].value;
+  let selecccionDeporte = selectDeporte.options[selectDeporte.selectedIndex].value;
   let filtradoDeporte = filtroDeportes(filterData,selecccionDeporte)
   filterData=filtradoDeporte
   agregarElementos(filtradoDeporte)
@@ -145,7 +146,7 @@ const selectMedalla = document.querySelector('#medallas');
 
 
 selectMedalla.addEventListener('change',()=>{
-  var selecccionMedalla = selectMedalla.options[selectMedalla.selectedIndex].value;
+  let selecccionMedalla = selectMedalla.options[selectMedalla.selectedIndex].value;
   let filtradoMedallas = filtroMedallas(filterData,selecccionMedalla)
   filterData=filtradoMedallas
   // if si  
@@ -172,7 +173,7 @@ const selectGenero = document.querySelector('#genero');
 })();
 
 selectGenero.addEventListener('change',()=>{
-  var selecccionGenero = selectGenero.options[selectGenero.selectedIndex].value;
+  let selecccionGenero = selectGenero.options[selectGenero.selectedIndex].value;
   let filtradoGenero = filtroGenero(filterData,selecccionGenero)
   filterData=filtradoGenero
   agregarElementos(filtradoGenero)
