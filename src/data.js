@@ -28,9 +28,25 @@ export const filtroMedallas = (data, valor) =>{
   return tomarMedalla;
 };
 
+
 //funcion para filtrar por genero
 export const filtroGenero = (data, valor) =>{
   const tomarGenero = data.filter(atleta =>(atleta.gender===valor));
   return tomarGenero;
 };
+
+
+//funcion para ordenar alfabeticamente en base al nombre del atleta
+export const sortAZ = (order) => {
+  const ordenarAZ = order.sort((a, b) => ((a.name.toUpperCase() > b.name.toUpperCase()) 
+  ? 1 : -1)); 
+  return ordenarAZ;
+};
+
+export const sortZA = (order) => {
+  const ordenarZA = order.sort((a, b) => ((a.name.toUpperCase() < b.name.toUpperCase())
+   ? 1 : -1));
+  return ordenarZA;
+};
+
 

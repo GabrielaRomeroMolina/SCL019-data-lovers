@@ -1,89 +1,106 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>Data Lovers</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div id="header">
-    <!-- boton para abrir el modal -->
-    <button id="botonModal">¡Conoce más del país anfitrion!</button>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Olimpiadas</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
 
-    <!-- modal -->
-    <div id="modalBanner" class="modal">
-        <div class="modal-contenido">
-          <span class="cerrarModal">&times;</span>
-          <p id="textoModal">Los Juegos Olímpicos de Río de Janeiro 2016, oficialmente conocidos como los Juegos de la XXXI Olimpiada, o más comúnmente como Río 2016, fue un evento multideportivo internacional, celebrado en la ciudad de Río de Janeiro, Brasil, entre el 5 y el 21 de agosto de 2016, aunque la fase de grupos del torneo de fútbol comenzó el 3 de agosto en la rama femenina y el 4 de agosto en la rama masculina. También se realizaron en dicha ciudad los XV Juegos Paralímpicos, entre el 7 y el 18 de septiembre del mismo año.
-          En esta edición de los Juegos Olímpicos participaron 11 551 atletas de 207 comités olímpicos nacionales —Kosovo y Sudán del Sur participaron por primera vez—, que compitieron en 306 eventos de 28 deportes, incluyendo el rugby 7 y el golf, agregados al programa olímpico en 2009. Las competiciones se llevaron a cabo en 33 recintos deportivos de cuatro barrios de Río de Janeiro —Maracaná, Barra da Tijuca, Deodoro y Copacabana— y en cinco estadios ubicados en las ciudades de São Paulo, Belo Horizonte, Salvador de Bahía, Brasilia y Manaus.
-          Siete ciudades presentaron oficialmente ante el Comité Olímpico Internacional su aspiración de albergar este evento deportivo, pero tras una primera etapa de evaluación, la lista fue reducida a cuatro ciudades: Chicago, Río de Janeiro, Madrid y Tokio. De estas, la ciudad brasileña fue elegida en la cxxi Sesión del COI, el 2 de octubre de 2009, celebrada en Copenhague.
-          La elección de Río marcó la primera vez en que Brasil ha sido designado como sede de los Juegos Olímpicos. Además, es la primera vez que se realiza un evento olímpico en un país lusófono, la primera vez que se realiza en un país sudamericano, la segunda en un país de Latinoamérica —la primera edición fue México 1968—, la tercera vez que ocurren en el hemisferio sur —previamente fueron Melbourne 1956 y Sídney 2000— y la séptima en un país del continente americano —previamente fueron San Luis 1904, Los Ángeles 1932, México 1968, Montreal 1976,
-          Los Ángeles 1984 y Atlanta 1996—. A todo lo anterior, se incluye el dato de ser el cuarto país que organiza de forma consecutiva la Copa Mundial de Fútbol y los Juegos Olímpicos (México en 1968 y 1970; Alemania en 1972 y 1974; y Estados Unidos en 1994 y 1996).
-          La organización del evento estuvo envuelta en diversas controversias, como la inestabilidad política del país, la presencia del virus del Zika y los significativos niveles de contaminación en la bahía de Guanabara. Además, un escándalo de dopaje impidió la participación de 118 atletas rusos en los Juegos.
-          </p>
+<!-----------------------------banner principal y modal------------------------------>
+    <div id="header">
+      <img src="imagen/banner_rio_olimpiadas.jpg" id="imagenBanner" alt="">
+      
+      <!-- boton para abrir el modal -->
+      <button id="botonModal">¡Conoce más del país anfitrion!</button>
+
+      <!-- modal -->
+      <div id="modalBanner" class="modal">
+
+         <!-- contenido del modal -->
+         <div class="modal-contenido">
+            
+            <!-- X para cerrar el modal , <span> solo abarca una linea -->
+            <span class="cerrarModal">&times;</span>
+
+               <!-- Información del modal -->
+               <p id="textoModal">
+                 <img src="imagen/logoRio.jpg" id="imagenModal1" alt="">
+                 <h3>UN ESPACIO PARA GRANDES ACTUACIONES</h3> 
+                 <h4>Los Juegos de Río 2016 ofrecieron el mejor entorno posible para alcanzar el mejor rendimiento.
+                  Los atletas disfrutaron de unas instalaciones de primer nivel, incluida una magnífica villa, 
+                  todo ubicado en una de las ciudades más bellas del mundo, en una estructura compacta para una máxima comodidad.</h4>
+                
+                 <h3>ESTRUCTURA COMPACTA </h3> 
+                 <h4>Las sedes de competición estuvieron ubicadas en cuatro zonas (Barra, Copacabana, Deodoro y Maracaná) 
+                  y estuvieron conectadas por un anillo de transporte de gran rendimiento. Casi la mitad de los atletas 
+                  pudieron llegar a sus sedes en menos de 10 minutos y casi el 75% pudo hacerlo en menos de 25 minutos.</h4>
+                
+                 <h3>DATOS DE LAS SEDES </h3>
+                 <h4>De las 34 sedes de competición, ocho pasaron por trabajos permanentes, siete fueron completamente temporales
+                  y nueve se construyeron como sedes permanentes de legado.</h4>
+                
+                 <h3>TODAS LAS MIRADAS EN RÍO </h3>
+                 <h4>Los Juegos de Río también celebraron y mostraron el deporte, gracias al impresionante entorno de la ciudad
+                  y al deseo de elevar la presentación de este gran evento a nuevas cotas. Al mismo tiempo, Río 2016 fue una
+                  oportunidad para cumplir las aspiraciones más amplias para el futuro a largo plazo de la ciudad, la región
+                  y el país, una oportunidad para acelerar la transformación de Río de Janeiro en una ciudad global aún mayor.</h4>
+
+                  <h3>DISEÑO DE MEDALLA Y ANTORCHA </h3> 
+                  <img src="imagen/medalla_antorcha.jpg" id="imagenModal2" alt="">
+                  <br><br>
+                  <h3>¡MASCOTAS! </h3> 
+                  <img src="imagen/mascotas.jpg" id="imagenModal2" alt="">
+                
+         </div>
       </div>
     </div>
-<<<<<<< HEAD
-  </div>  
-    
-      <h2>En la Siguiente página encontraras información de los Atletas que participaron en los Juegos Olimpicos Rio de Janeiro 2016</h2> 
-      <nav class="barranav">
-        <button id="limpiarFiltros"> limpiar filtros </button>  
-          
-        <select id="paises"  class="paises" name="paises">
-            <option value="">Países</option>
-        </select>
 
-        <select id="deporte" class="deporte" name="deporte">
-          <option value="">Deporte</option>
-        </select>
-
-        <select id="medallas" class="medallas" name="medallas">
-          <option value="">Medalla</option>
-        </select>
-
-        <select id="genero" class="genero" name="genero">
-          <option value="">Genero</option>
-        </select>
-        
-          
-            
-          
-      </nav>
-      <div id="root"></div>
-      <footer></footer>
-=======
+    <!------------------ Introduccion a la pagina ------------------------>
 
     <h2>En la Siguiente página encontraras información de los Atletas que participaron en los Juegos Olimpicos Rio de Janeiro 2016</h2> 
-  
+    
+    <!---------------------- Barra navegadora ----------------------------->
     <nav class="barranav">
       
+      <!-- select paises -->
       <select id="paises"  class="paises" name="paises">
           <option value="">Países</option>
       </select>
 
+      <!-- select deportes -->
       <select id="deporte" class="deporte" name="deporte">
         <option value="">Deporte</option>
       </select>
 
+      <!-- select medallas -->
       <select id="medallas" class="medallas" name="medallas">
         <option value="">Medalla</option>
       </select>
 
+      <!-- select genero -->
       <select id="genero" class="genero" name="genero">
         <option value="">Genero</option>
+      </select>
+     
+      <!-- Select orden alfabetico -->
+      <select id="sort" class="sort" name="sort">
+        <option class="option" value="">Ordenar</option>
+        <option class="option" value="A-Z">A-Z</option>
+        <option class="option" value="Z-A">Z-A</option>
       </select>
      
     </nav>
 
 
     <br><br>
-
-    <div id="root">
+   <!---------------------------- Seccion tarjeta de atletas --------------------------------->
+    
+   <div id="root">
     </div>
 
->>>>>>> 235c31475c871661d3066b079ce37891c2729c7a
-    
+    <!---------------------------------- footer ---------------------------------------------->
+    <footer></footer>
     <script src="main.js" type="module"></script>
   
 </body>
