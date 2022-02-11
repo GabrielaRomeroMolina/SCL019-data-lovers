@@ -215,11 +215,11 @@ selectSort.addEventListener('change', (event) => {
 function asignarAvatar(atleta) {
   //si el genero es M este ingresara el avatar de hombre
   if (atleta.gender=="M") {
-    return 'imagen/iconoAtletas.png'
+    return 'imagen/avatarMasculino.png'
 
   // de lo contrario ingrsará el avatar de una mujer  
   } else {
-    return 'imagen/avatar_mujer.png'
+    return 'imagen/avatarFemenino.png'
   }          
 }
 //luego se ingresa la funcion asignarAvatar(atleta) a el elemento creado mas arriba (al principio linea 43) 
