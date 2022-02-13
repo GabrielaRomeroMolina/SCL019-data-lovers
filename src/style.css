@@ -33,7 +33,7 @@
 }
 
 #botonModal:hover {
-  display: flex;
+  
   background-color:rgb(20, 72, 133);
   color: white;
 }    
@@ -55,7 +55,7 @@
 
 /* contenido de modal*/
 .modal-contenido {
-  display: flex;
+  
   background-color: #fefefe;
   margin: 10% auto;
   padding: 24px;
@@ -212,10 +212,11 @@ select {
 }
 
 #iconoAtleta{
-  width:100px;
-  height:100px;
+  width: 135px;
+  height: 135px;
   margin-top: -10px;
 }
+
 
 p {
   display: flex;
