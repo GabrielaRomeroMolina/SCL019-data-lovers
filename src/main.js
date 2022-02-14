@@ -227,14 +227,26 @@ function asignarAvatar(atleta) {
 
 
 
-//Aparicion de alerta al no haber concidencia entre los select
+//Aparicion de alerta al no haber coincidencia entre los select
   function alertaAviso (atleta){
+  let resetSelect = document.getElementsByTagName('select');
+  let reseteo = resetSelect.option[resetSelect.selectedIndex].value;
   
+
   if (atleta.length == 0 ){
-      return  alert("no hay coincidencia")
+     filterData = dataAthlete
+     alert("no hay coincidencia")
+     return reseteo
+    
   }
   
 } 
+/*const limpiar = () => {
+  for (let i = $select.options.length; i >= 0; i--) {
+    $select.remove(i);
+  }
+};
+*/
 
 
 
