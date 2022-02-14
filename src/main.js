@@ -214,7 +214,7 @@ selectSort.addEventListener('change', (event) => {
 //se crea una funcion que recibe la data de atleta como parametro 
 function asignarAvatar(atleta) {
   //si el genero es M este ingresara el avatar de hombre
-  if (atleta.gender=="M") {
+  if (atleta.gender=='M') {
     return 'imagen/avatarMasculino.png'
 
   // de lo contrario ingrsará el avatar de una mujer  
@@ -227,32 +227,25 @@ function asignarAvatar(atleta) {
 
 
 
-//Aparicion de alerta al no haber concidencia entre los select
+//-------------------ALERTA Y REINICIO DE DESPLEGABLE SELECT------------------------------
+
+// Se crea una funcion que sera asignada a cada uno de los select para que se ejecute
   function alertaAviso (atleta){
-  
-  if (atleta.length == 0 ){
-    let resetSelect = document.getElementsByTagName('select');
-
-    resetSelect[0].selectedIndex = 0;
-
-
+//si al seleccionar una opcion y esta no arroja o su valor es 0
+     if (atleta.length == 0 ){
+//se hace un recorrido por un array de selects 
+     let resetSelect = document.getElementsByTagName('select');
+// y devuelve todos a la posicion original
+     let i=0
+     for (i = 0; i < resetSelect.length; i++) {
+        resetSelect[i].selectedIndex=0;
+    }
     filterData = dataAthlete
-    alert("no hay coincidencia")
-
-
-        
-  }
-  
+//arrojando un alerta avisando que no hay coincidencia y se reiniciaran
+    alert('no hay coincidencia, la busqueda se reiniciará')   
+  } 
 } 
 
-/*for (let i = 0 ; i < resetSelect.length; i = 0; i) {
-
-}
-let=i
-for (let i= 0; index < array.length; index++) {
-  const element = array[index];
-  
-}*/
 
 
 //--------------- FUNCIONAMIENTO DE MODAL DE BANNER------------------- (EXPLICACIÓN PASO A PASO)
