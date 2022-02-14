@@ -234,10 +234,16 @@ function asignarAvatar(atleta) {
   
 
   if (atleta.length == 0 ){
-     filterData = dataAthlete
-     alert("no hay coincidencia")
-     return reseteo
-    
+    let resetSelect = document.getElementsByTagName('select');
+
+    resetSelect[0].selectedIndex = 0;
+
+
+    filterData = dataAthlete
+    alert("no hay coincidencia")
+
+
+        
   }
   
 } 
@@ -248,6 +254,14 @@ function asignarAvatar(atleta) {
 };
 */
 
+/*for (let i = 0 ; i < resetSelect.length; i = 0; i) {
+
+}
+let=i
+for (let i= 0; index < array.length; index++) {
+  const element = array[index];
+  
+}*/
 
 
 //--------------- FUNCIONAMIENTO DE MODAL DE BANNER------------------- (EXPLICACIÓN PASO A PASO)
