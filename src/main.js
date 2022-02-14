@@ -13,7 +13,6 @@ let filterData = dataAthlete   //Se crea una copia para uso vario y no interfier
 //------------------------------VISUALIZACION DE DATA POR ATLETA EN LA PAGINA -------------------
 
 
-
 window.onload = () => {
   agregarElementos(dataAthlete)       /*Esta funcion sera usada para representar la imagen */
 }                                     /* de cada tarjeta de los atletas que se visualiza en el HTML*/
@@ -61,8 +60,7 @@ function agregarElementos(dataAthlete){
   }
 
 
-
-
+ 
 
 //--------------------------- BARRAS DESPLEGABLES SELECT----------------------------
 
@@ -104,7 +102,7 @@ const selectPais = document.querySelector('#paises');
      let paisFiltrado = filtroPaises(filterData,selecccionPais)
      filterData=paisFiltrado
      agregarElementos(paisFiltrado)
-
+     alertaAviso(paisFiltrado);
  })
 
 
@@ -129,7 +127,7 @@ selectDeporte.addEventListener('change',()=>{
   let filtradoDeporte = filtroDeportes(filterData,selecccionDeporte)
   filterData=filtradoDeporte
   agregarElementos(filtradoDeporte)
-
+  alertaAviso(filtradoDeporte);
 })
 
 
@@ -154,7 +152,7 @@ selectMedalla.addEventListener('change',()=>{
   let filtradoMedallas = filtroMedallas(filterData,selecccionMedalla)
   filterData=filtradoMedallas
   agregarElementos(filtradoMedallas)
-
+  alertaAviso(filtradoMedallas);
 })
 
   
@@ -179,6 +177,7 @@ selectGenero.addEventListener('change',()=>{
   let filtradoGenero = filtroGenero(filterData,selecccionGenero)
   filterData=filtradoGenero
   agregarElementos(filtradoGenero)
+  alertaAviso(filtradoGenero)
 
 })
 
@@ -204,6 +203,7 @@ selectSort.addEventListener('change', (event) => {
     if (seleccionOrden === 'Z-A') {
       const ordenFiltrado = sortZA(filterData);
       agregarElementos(ordenFiltrado);
+      
     }
 });
 
@@ -226,6 +226,15 @@ function asignarAvatar(atleta) {
 //en la funcion agregarElementos para incorporar la imagen con un append.child
 
 
+
+//Aparicion de alerta al no haber concidencia entre los select
+  function alertaAviso (atleta){
+  
+  if (atleta.length == 0 ){
+      return  alert("no hay coincidencia")
+  }
+  
+} 
 
 
 
