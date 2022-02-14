@@ -227,6 +227,7 @@ function asignarAvatar(atleta) {
 
 
 
+
 //-------------------ALERTA Y REINICIO DE DESPLEGABLE SELECT------------------------------
 
 // Se crea una funcion que sera asignada a cada uno de los select para que se ejecute
@@ -241,10 +242,12 @@ function asignarAvatar(atleta) {
         resetSelect[i].selectedIndex=0;
     }
     filterData = dataAthlete
+
 //arrojando un alerta avisando que no hay coincidencia y se reiniciaran
     alert('no hay coincidencia, la busqueda se reiniciará')   
   } 
 } 
+
 
 
 
@@ -268,4 +271,9 @@ btn.onclick = function() {
 span.onclick = function() {
   modal.style.display = 'none';
 }
+
+
+
+
+
 
