@@ -227,12 +227,9 @@ function asignarAvatar(atleta) {
 
 
 
-//Aparicion de alerta al no haber coincidencia entre los select
-  function alertaAviso (atleta){
-  let resetSelect = document.getElementsByTagName('select');
-  let reseteo = resetSelect.option[resetSelect.selectedIndex].value;
+//Aparicion de alerta al no haber concidencia entre los select
+function alertaAviso (atleta){
   
-
   if (atleta.length == 0 ){
     let resetSelect = document.getElementsByTagName('select');
 
@@ -246,7 +243,7 @@ function asignarAvatar(atleta) {
         
   }
   
-} 
+}
 /*const limpiar = () => {
   for (let i = $select.options.length; i >= 0; i--) {
     $select.remove(i);
