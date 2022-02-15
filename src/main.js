@@ -233,7 +233,7 @@ function alertaAviso (atleta){
   if (atleta.length == 0 ){
     let resetSelect = document.getElementsByTagName('select');
 
-    resetSelect[0].selectedIndex = 0;
+    resetSelect[i].selectedIndex = 0;
 
 
     filterData = dataAthlete
