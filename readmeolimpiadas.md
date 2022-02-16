@@ -15,5 +15,5 @@ El diverso publico que reune este evento deportivo nos permite crear variados re
 
 ## 3. Prototipo de alta fidelidad
 
-
+![image](prototipo.png)
 
