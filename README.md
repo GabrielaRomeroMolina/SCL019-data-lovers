@@ -1,10 +1,10 @@
 # Data Olimpiadas
 
-* [1. Definición del producto](#1-definición del producto)
-* [2. Diseño de interfaz](#2-diseño de interfaz)
-* [4. implementación de test](#4-consideraciones-generales)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [9. Checklist](#9-checklist)
+* [1. Definición del producto](#1-definición)
+* [2. Diseño de interfaz](#2-consideraciones-generales)
+* [3. Implementación de test](#3-test )
+* [4. Objetivos de aprendizaje](#4-objetivos-de-aprendizaje)
+* [5. Checklist](#9-checklist)
 
 ***
 
@@ -87,11 +87,11 @@ mejoraste en tu propuesta final.
 
 - [x] **Funciones (params, args, return)**
 
-- [ ] **Pruebas unitarias (unit tests)**
+- [x] **Pruebas unitarias (unit tests)**
  
 - [x] **Módulos de ECMAScript (ES Modules)**
 
-- [ ] **Uso de linter (ESLINT)**
+- [x] **Uso de linter (ESLINT)**
 
 - [x] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
 
@@ -124,10 +124,10 @@ mejoraste en tu propuesta final.
 
 ## 9. Checklist
 
-* [ ] Usa VanillaJS.
-* [ ] Pasa linter (`npm run pretest`)
-* [ ] Pasa tests (`npm test`)
-* [ ] Pruebas unitarias cubren un mínimo del 70% de statements, functions y
+* [x] Usa VanillaJS.
+* [x] Pasa linter (`npm run pretest`)
+* [x] Pasa tests (`npm test`)
+* [x] Pruebas unitarias cubren un mínimo del 70% de statements, functions y
   lines y branches.
 * [ ] Incluye _Definición del producto_ clara e informativa en `README.md`.
 * [ ] Incluye historias de usuario en `README.md`.
@@ -138,7 +138,7 @@ mejoraste en tu propuesta final.
 * [ ] Incluye link a Zeplin en `README.md`.
 * [ ] Incluye el listado de problemas que detectaste a través de tests de
   usabilidad en el `README.md`.
-* [ ] UI: Muestra lista y/o tabla con datos y/o indicadores.
-* [ ] UI: Permite ordenar data por uno o más campos (asc y desc).
-* [ ] UI: Permite filtrar data en base a una condición.
+* [x] UI: Muestra lista y/o tabla con datos y/o indicadores.
+* [x] UI: Permite ordenar data por uno o más campos (asc y desc).
+* [x] UI: Permite filtrar data en base a una condición.
 * [ ] UI: Es _responsive_.
