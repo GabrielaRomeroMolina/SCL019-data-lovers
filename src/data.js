@@ -1,13 +1,5 @@
 // estas funciones son de ejemplo
 
-export const example = () => {
-  return 'example';
-};
-
-export const anotherExample = () => {
-  return 'OMG';
-};
-
 //funcion para filtrar por pais desde nacionalidad
 export const filtroPaises = (data, valor) =>{
   const tomarPais = data.filter(atleta =>(atleta.team===valor));

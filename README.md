@@ -13,7 +13,7 @@ El diverso publico que reune este evento deportivo nos permite crear variados re
 2.Como usuario quiero acceder y visualizar en la página información sobre el país anfitrión. 
 3.Como ususario quiero acceder a la información de a página a través de una barra de busqueda para hacer más expedita la experiencia en la página.
 
-## 3. Prototipo de alta fidelidad
+## 3. Prototipo de baja fidelidad
 
 En este prototipo ordenamos las caracteristicas que deseabamos en nuestra página. Determinamos un banner, fijamos en que ubicacion implementariamos la barra selectora y diseñamos unas tarjetas que contendrian la información de los atletas. 
 
