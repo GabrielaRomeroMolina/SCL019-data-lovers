@@ -71,7 +71,7 @@ const listaPaisesRepetidos = filterData.map((paises) => paises.team);
 
 //constante que se va a usar en la seleccion de pais ,  hace filtrado de paises por key, posicion y array, donde tomara el indice de cada key dentro del array (solo de pais por la variable anterior)sin repetirse
 const listaPaises = listaPaisesRepetidos.filter((elemento, indice, array) =>
-  array.indexOf(elemento) === indice);
+  array.indexOf(elemento) === indice);  /*devuelve el primer elemento*/
   
  
  
@@ -271,9 +271,3 @@ btn.onclick = function() {
 span.onclick = function() {
   modal.style.display = 'none';
 }
-
-
-
-
-
-
